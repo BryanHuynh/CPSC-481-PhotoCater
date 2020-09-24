@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## GEO PHOTO
 
-You can use the [editor on GitHub](https://github.com/BryanHuynh/CPSC-481-Project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[Phase one]()
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Phase two]()
 
-### Markdown
+[Phase three]()
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Phase four]()
 
-```markdown
-Syntax highlighted code block
+[Phase five]()
 
-# Header 1
-## Header 2
-### Header 3
+### The Problem
 
-- Bulleted
-- List
+As the pandemic has pushed more people outside to maintain social distancing, we have begun to explore our cities and surroundings with much more gusto than we have before. This drive for exploring, has created a desire to find cool places to explore. Since social media is quite prevalent today, it is important that we give users easy accessibility in order to find amazing spots to make their pictures look their best. Whether you are just looking for somewhere to relax or somewhere to take pictures, having a place for people to share the places that they have found with their communities can be an important way for people to interact with their now distanced acquaintances.
 
-1. Numbered
-2. List
+### The Solution
 
-**Bold** and _Italic_ and `Code` text
+By creating a website where we can all share our favorite spots and share the photos that we have taken, this would be a great way to get out of the house while keeping safe. The Website will include sharing and messaging features with users on the webapp, allowing people to connect with each other, and helping to maintain that sense of community through a digital medium. The application would also contain photos that others have taken and shared as well, and the ability for their followers to like and share that location. The photo that the user takes will give them the option to tag/share their current location.  It would also contain a feature in which you can link your social media profile, and it can tell you who on your friends list (of said social media app) has visited or have taken a picture at that specific location.  
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BryanHuynh/CPSC-481-Project/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
