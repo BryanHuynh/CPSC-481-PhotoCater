@@ -1,4 +1,4 @@
-## Photocater 
+## PhotoCater 
 
 [Phase one]()
 
