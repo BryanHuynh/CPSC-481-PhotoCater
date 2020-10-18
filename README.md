@@ -88,3 +88,17 @@ We expect that the users that will use our system, will be anybody who wants to 
 
 ![title_img](img/image006.png)
 ![title_img](img/image007.png)
+
+### Character Profiles 
+
+- Justification: Creating separate demographics of different people within different age groups can help us identify relations between the different groups and our application functions. 
+
+- What went well: By creating these character profiles, it helps us identify the different kinds of users that will interact with our product. Therefore, it makes it easier for us to create an app that can be used by all demographics 
+
+- What went poorly: Since our survey failed to narrow the different patterns in the age demographic that we defined in our character profile. It was hard to find relations between the demographics and our survey questions. 
+
+- What we could have done differently: We could have analyzed our survey data more critically to help us identify patterns to help us develop a more detailed character profile. 
+
+- Summary of our findings: Based off survey and its relation to the character profiles, we learned that all applicants within all demographics use social media.  
+
+*To see images of character profiles check Appendix* 
