@@ -70,9 +70,6 @@ We expect that the users that will use our system, will be anybody who wants to 
 
 - Summary of our findings: We found that a hundred percent of applicants use social media, this means that implementing a social media linkage would be crucial for our app. A lot of our applicants also mainly like taking pictures at around national parks, this means that majority of our applicants like taking pictures outside in nature. We also have discovered that more than 80 percent of our applicants take different photos based on weather, this means that implementing a function that displays different photos taken during different weather conditions would be a valuable function
 
-#
 ![title_img](img/image002.png)
-#
 ![title_img](img/image003.png)
-#
 ![title_img](img/image004.png)
