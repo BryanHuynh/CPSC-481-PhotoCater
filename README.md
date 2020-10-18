@@ -162,10 +162,12 @@ We expect that the users that will use our system, will be anybody who wants to 
 
  
 
-#### Could be included: 
+### Could be included: 
+#### Commenting/Reviewing photographs: 
 
 - The user can also add comments to these photos if they have signed into an account. 
 
+#### Providing social media information of the photographer or model, to see more of their work: 
 - Social media links of the photographer and of any model that was in the photo. 
 
  
