@@ -221,8 +221,10 @@ We expect that the users that will use our system, will be anybody who wants to 
 | Goal for using product | To create as many memories with her family members. |
 | Camera | SLR Film Camera |
 
+#### Personal Inventory:
 ![title_img](img/image007.png)
 ![title_img](img/image008.png)
+#### Survey Questions (not all):
 ![title_img](img/image009.png)
 ![title_img](img/image0010.png)
 ![title_img](img/image0011.png)
