@@ -2,7 +2,7 @@
 
 [Phase one]()
 
-[Phase two]()
+<a href="/docs/stage2.md/">Phase Two </a>
 
 [Phase three]()
 
