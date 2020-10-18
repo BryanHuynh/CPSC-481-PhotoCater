@@ -86,5 +86,5 @@ We expect that the users that will use our system, will be anybody who wants to 
 
 - Summary: We found from the answers that with the trend of the participants phone being one of the first things listed as important to them when taking photos, we found that all users should have their phones around so it would maybe make more sense to change the medium of the application to mobile over web. 
 
-![title_img](img/image005.png)
 ![title_img](img/image006.png)
+![title_img](img/image007.png)
