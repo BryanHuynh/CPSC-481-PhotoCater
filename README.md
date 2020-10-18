@@ -175,8 +175,54 @@ We expect that the users that will use our system, will be anybody who wants to 
  
 - Character Profile Format taken from here: https://studylib.net/doc/8597949/creating-character-profiles-following-the-ideo 
 
+### Profiles
+
 | Group | Age:15-19|
 |---|---|
 | Name | Jennifer |
 | Age | 16 |
 | Gender | Female |
+| Work | Jobless |
+| Free Time | 6 - 9 hours on weekdays, all day on weekends. |
+| Hobbies | Social Media(TikTok, Instagram, SnapChat), Volleyball, Modeling, Horseback Riding. |
+| Goal for using product | Posting beautiful pictures on social media. To show off to friends and family. |
+| Camera | iPhone Camera |
+
+| Group | Age:20-25|
+|---|---|
+| Name | Stephen |
+| Age | 22 |
+| Gender | Male |
+| Work | Part-time cashier at a grocery store  |
+| Free Time | Couple hours each night (depending on school workload and work schedule) |
+| Hobbies | Working out, video games, ultimate frisbee.  |
+| Goal for using product | Taking pictures at good viewpoints to show off to his friends and family. As well as searching for professional places to take photos for his dream career in the future  |
+| Camera | iPhone Camera |
+
+| Group | Age:26-30|
+|---|---|
+| Name | Joe |
+| Age | 27 |
+| Gender | Male |
+| Work | Mechanical Engineer |
+| Free Time | 2 hours at night during the week and 5-6 hours during the weekend  |
+| Hobbies | Going to the gym and finding new places to dine in.  |
+| Goal for using product | He wishes to take cool photos to show to wife and co-workers. Also, to hopefully find cool places to take his kids to and have a family day.  |
+| Camera | DSLR |
+
+| Group | Age:31+ |
+|---|---|
+| Name | Bertha |
+| Age | 65 |
+| Gender | Female |
+| Work | Retired |
+| Free Time | Free most of the day |
+| Hobbies | Visiting grandkids and going on walks   |
+| Goal for using product | To create as many memories with her family members. |
+| Camera | SLR Film Camera |
+
+
+
+
+
+Title image source:  https://www.pexels.com/photo/adult-blur-camera-dirt-road-610293/  
