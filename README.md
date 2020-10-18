@@ -1,20 +1,57 @@
-## PhotoCater 
+## STAGE TWO 
 
-[Phase one]()
+### Members (Team F/TUT03):  
 
-[Phase two]()
+Bryan Hyunh 
 
-[Phase three]()
+Don McEachern 
 
-[Phase four]()
+Ryan Liew 
 
-[Phase five]()
+Sajid Choudhry 
 
-### The Problem
+Sarina Zohdi 
 
-As the pandemic has pushed more people outside to maintain social distancing, we have begun to explore our cities and surroundings with much more gusto than we have before. This drive for exploring, has created a desire to find cool places to explore. Since social media is quite prevalent today, it is important that we give users easy accessibility in order to find amazing spots to make their pictures look their best. Whether you are just looking for somewhere to relax or somewhere to take pictures, having a place for people to share the places that they have found with their communities can be an important way for people to interact with their now distanced acquaintances.
+ 
 
-### The Solution
+### Portfolio Webpage:  
 
-By creating a website where we can all share our favorite spots and share the photos that we have taken, this would be a great way to get out of the house while keeping safe. The Website will include sharing and messaging features with users on the webapp, allowing people to connect with each other, and helping to maintain that sense of community through a digital medium. The application would also contain photos that others have taken and shared as well, and the ability for their followers to like and share that location. The photo that the user takes will give them the option to tag/share their current location.  It would also contain a feature in which you can link your social media profile, and it can tell you who on your friends list (of said social media app) has visited or have taken a picture at that specific location.  
+https://bryanhuynh.github.io/CPSC-481-Project/ 
 
+### Portfolio GitHub: 
+
+https://github.com/BryanHuynh/CPSC-481-Project 
+
+# PhotoCator 
+
+### Description: 
+
+ 
+
+Our project idea is a photography landmark locator. This application is going to look like a navigation app like google maps, but instead the focus of this app is for people to share unique and interesting locations for beautiful photography. To do this, when a photo is uploaded, they will be asked to give a description of the longitude and latitude of the photo, along with the date and time of day, so that one can go out and recreate the photo if the wish. We also plan to link it towards social media, so you can see the pictures that your peers take.  
+
+ 
+
+#### How do you expect the system to be used? 
+
+We expect the user to use this whether they are an aspiring new photographer or a professional to find different interesting and exciting places to take photos. By sharing their pictures of the places that they have found themselves we expect them to help broaden and bring together the photography community.
+
+#### By whom will the system be used? 
+
+We expect that the users that will use our system, will be anybody who wants to take pictures. There is no limit for anyone to use this application. 
+
+## Stakeholders: 
+
+- Advertisers 
+
+- Freelancers/Models - can be used as a portfolio builder 
+
+- Architects/Artists - they care about how their work will be represented 
+
+- Park conservationists – data can be gathered on which parks are being visited most. 
+
+## Users: 
+
+- Target Audience is anyone who wants to take pictures 
+
+ 
