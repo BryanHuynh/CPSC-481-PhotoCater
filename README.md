@@ -73,3 +73,15 @@ We expect that the users that will use our system, will be anybody who wants to 
 ![title_img](img/image002.png)
 ![title_img](img/image003.png)
 ![title_img](img/image004.png)
+
+### Personal Inventory 
+
+- Justification: By asking different users what they think are important items to them when taking photos helps us identify what personal values and items the user believes to be important when they are going to be engaging with the application.  
+
+- What went well: We received lots of different answers with the questions attached to our surveys. 
+
+- What went poorly: Since we didn’t give examples in asking these questions, we did get a lot of overlap in some answers 
+
+- What we could have done differently: Asked the personal inventory questions to be more pointed to narrow down answers that are more unique to each participant. 
+
+- Summary: We found from the answers that with the trend of the participants phone being one of the first things listed as important to them when taking photos, we found that all users should have their phones around so it would maybe make more sense to change the medium of the application to mobile over web. 
