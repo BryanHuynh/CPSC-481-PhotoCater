@@ -1,6 +1,6 @@
 ## PhotoCater 
 
-[Phase one]()
+<a href="https://bryanhuynh.github.io/CPSC-481-Project">Phase one</a>
 
 <a href="https://bryanhuynh.github.io/CPSC-481-Project/Site/stage2">Phase two </a>
   
