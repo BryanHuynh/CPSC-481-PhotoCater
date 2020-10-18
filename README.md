@@ -170,4 +170,13 @@ We expect that the users that will use our system, will be anybody who wants to 
 #### Providing social media information of the photographer or model, to see more of their work: 
 - Social media links of the photographer and of any model that was in the photo. 
 
+## *Appendix: *
+
  
+- Character Profile Format taken from here: https://studylib.net/doc/8597949/creating-character-profiles-following-the-ideo 
+
+| Group | Age:15-19|
+|---|---|
+| Name | Jennifer |
+| Age | 16 |
+| Gender | Female |
