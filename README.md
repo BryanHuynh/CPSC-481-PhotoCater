@@ -102,3 +102,70 @@ We expect that the users that will use our system, will be anybody who wants to 
 - Summary of our findings: Based off survey and its relation to the character profiles, we learned that all applicants within all demographics use social media.  
 
 *To see images of character profiles check Appendix* 
+
+## User-Task Descriptions 
+ 
+
+### Must Be Included: 
+
+#### Log-in to account: 
+
+- User opens webpage on computer or phone, clicks the login button in the corner of the screen.  
+
+- The user is taken to a new screen and enters their username and password, clicks login button to verify login. 
+
+ 
+
+#### View photo-feed: 
+
+- Once logged in they can see different landmarks near them on the map. They click on one of the pins marking a location for photo taking. 
+
+- A scroll page of photos taken at that location appears and they can scroll through it using the sidebar on the page or swiping if on phone or tablet. 
+
+- A map of the globe: 
+
+- There will be a globe that contains many pins on a google map of all the photos taken.  
+
+- Signing up for an account: 
+
+- The user will require an account to post and like photos. To do this the user will require to sign up with their google account that can be linked with the app itself 
+
+ 
+
+#### Filtering photos based on tags, time, and likes: 
+
+- Because the globe can be very clustered with the number of photos taken, the user has the option to configure which pins they will see on the globe. For example, the user can filter to only see photos that are tagged as landscapes, or portraits. In addition, they can filter based on when the photo was taken by say within a day, a week, a month, or years.  
+
+- Finally, they can filter based on the number of likes. Say the user only wants to see pins with >N likes. Or they want to see the hottest photos which will be a ratio of likes and date posted.  
+
+#### Viewing more information of an image: 
+
+- When they scroll through the feed of photos for a given pin, they can click on a specific photo to see more information about it.  
+
+- This activity will show when the photo was taken, the number of likes it has, its specific location along with its whether.  
+
+ 
+
+### Important: 
+
+ 
+
+#### View friends’ profiles: 
+
+- Once the user is logged in to the app, they can view what pictures they took, where they took their pictures, their reviews on certain places for pictures. You can also view their social media page displaying some of the pictures that they took from that location. 
+
+ 
+
+#### Upload a photo to the website: 
+
+- On the home screen when the user is logged in, they click the ‘add photos’ button, then they are given the option to select the photo’s they want to upload. Once they made their selections, they will be asked to add a location on the map where they took their photos. Once they select the location, they click the finish button and the photos are uploaded and tagged to the location the user selected. 
+
+ 
+
+#### Could be included: 
+
+- The user can also add comments to these photos if they have signed into an account. 
+
+- Social media links of the photographer and of any model that was in the photo. 
+
+ 
