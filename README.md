@@ -24,6 +24,8 @@ https://github.com/BryanHuynh/CPSC-481-Project
 
 # PhotoCator 
 
+![title_img](img/image001.png)
+
 ### Description: 
 
  
