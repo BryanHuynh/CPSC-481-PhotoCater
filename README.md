@@ -2,7 +2,7 @@
 
 [Phase one]()
 
-<a href="https://github.com/BryanHuynh/CPSC-481-Project/blob/master/Site/Stage%202/Stage%20Two.htm">Phase Two </a>
+<a href="https://github.com/BryanHuynh/CPSC-481-Project/blob/master/Site/Stage%202/Stage%20Two.html">Phase Two </a>
 
 [Phase three]()
 
