@@ -13,7 +13,7 @@
 
 ### Members (Team F/TUT03):  
 
-Bryan Hyunh 
+Bryan Huynh 
 
 Don McEachern 
 
