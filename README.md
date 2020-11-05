@@ -34,8 +34,7 @@ Our project idea is a photography landmark locator. This application is going to
 
 ### Affinity Diagram 
 
-|Groups|
-|---|
+
 | Quality of Life/ Usability | Finding Landmarks | Sharing Pictures |
 |---|---|---|
 | acessibility option | Scrollable Map area | For location area using pin and radar|
