@@ -3,7 +3,7 @@
 
 <a href="https://bryanhuynh.github.io/CPSC-481-Project/Site/stage2">Phase two </a>
   
-[Phase three]()
+<a href="https://bryanhuynh.github.io/CPSC-481-Project/Site/stage3">Phase three </a>
 
 [Phase four]()
 
