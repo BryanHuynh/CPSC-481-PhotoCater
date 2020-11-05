@@ -61,11 +61,11 @@ Our project idea is a photography landmark locator. This application is going to
 
 - When signing up, the users have a choice of linking their social media to their account, their choices for social media will be: 
 
-- - Instagram 
+    - Instagram 
 
-- - Facebook 
+    - Facebook 
 
-- - Twitter 
+    - Twitter 
 
 - If they did not link their account when signing up, they will still have a choice in linking their account through the friend's tab on the main screen. 
 
@@ -77,33 +77,33 @@ Our project idea is a photography landmark locator. This application is going to
 
 - The user can do many actions to find a photo of their choosing 
 
-- - On the main screen there will be pins on the map, indicating pictures that we're taken from that place, when those pins are clicked a photo feed of pictures that were taken there will appear 
+    - On the main screen there will be pins on the map, indicating pictures that we're taken from that place, when those pins are clicked a photo feed of pictures that were taken there will appear 
 
-- - They can also filter these pins by categories 
+    - They can also filter these pins by categories 
 
-- - - Architectural 
+        - Architectural 
 
-- - - Model 
+        - Model 
 
-- - - Scenery 
+        - Scenery 
 
-- - - Landscape 
+        - Landscape 
 
-- - - Etc 
+        - Etc 
 
-- - Choosing a filter will result in showing different pins based on the chose category. 
+    - Choosing a filter will result in showing different pins based on the chose category. 
 
-- - The search bar is used for searching specific places or coordinates to view pictures taken in that area. 
+    - The search bar is used for searching specific places or coordinates to view pictures taken in that area. 
 
 - The pin also contains much information of the pictures taken in that area: 
 
-- - Reviews on the area 
+    - Reviews on the area 
 
-- - If it's busy or not (COVID) 
+    - If it's busy or not (COVID) 
 
-- - When it was taken 
+    - When it was taken 
 
-- - Etc 
+    - Etc 
 
 - Also, the user will have a choice of seeing directions to get to that area, when the pin is clicked 
 
@@ -113,18 +113,18 @@ Our project idea is a photography landmark locator. This application is going to
 
 - If they are adding a new pin, they will be asked which form they would like to enter the location that could be one of the following choices: 
 
-- - Google maps api search 
+    - Google maps api search 
 
-- - Lat long entry 
+    - Lat long entry 
 
-- - Pin drop on map  
+    - Pin drop on map  
 
 - Once they enter the location of photoshoot, they can add comments or descriptions to like: 
 
-- - Type of camera used  
+    - Type of camera used  
 
-- - How busy the location is  
+    - How busy the location is  
 
-- - Weather 
+    - Weather 
 
  
