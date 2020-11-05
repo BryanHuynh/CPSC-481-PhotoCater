@@ -184,10 +184,21 @@ Our project idea is a photography landmark locator. This application is going to
 | User defines Camera | yes | yes | Fields required by the user like the type of camera used to take the photo must be filled out | This can be filled out automatically with the meta data if it exists |
 | Upload photo | yes | yes | Yes, it is required to successfully share a photo | There is a button that says "Upload" |
 
+
 #### Social Media Linkage
 | Description of Task | Does the User have training or knowledger to do this step? | Is it believable that they woiuld do it? | Are they Motivated? | Comments (including possible solutions) | 
 |---|---|---|---|---|
+| Click on Friends tab | yes | yes |Yes, if they want to see their friends and link social media they will go look for where those connections are |Yes, if they want to see their friends and link social media they will go look for where those connections are |
+|Click on Link social media button | Yes | Yes | Yes, to link their social media they will need to provide the information to link the account | This can be changed/removed or added later in their profile settings page |
+| Click on the social media icon they want to link | yes | yes | Yes, they have in mind the social media account they want to link so they will go looking for it| This will open a new tab in the browser, that follows to the user's social media page |
+| Fill in their information for that social media they selected | yes | yes | Yes, Photocator needs that information to make the connection, so if they want to attach a social media account to it, they will need to provide this information. | They will only need to do this once and will not be required to do this for ever post they make |
+| Click login button | yes | yes | Yes, they will want to complete the process | The login button will be at the bottom of the form so that their eye naturally follows to the next step |
+
 
 #### Finding Photos or Landmarks
 | Description of Task | Does the User have training or knowledger to do this step? | Is it believable that they woiuld do it? | Are they Motivated? | Comments (including possible solutions) | 
 |---|---|---|---|---|
+| Login or sign up | yes | yes | yes | They can save their sign in so they only need to do it once per computer |
+| Adding filters | yes | yes | yes | There will be a list of tags that they the user can select |
+| Click on a pin on the map to preview a photo | no | yes | Yes, that is one of the ways to view other photos from that location | When the click on a pin, they can easily close the preview menu so that they can find another pin. They can zoom into a map so that they can more accurately select a certain pin |
+| They click on the feed to preview a photo | no | yes | If they find a photo that they are interested in and want to know more about it | The menu is on the home page for ease of access, and allowing them to quickly find a large set of photos quickly |
