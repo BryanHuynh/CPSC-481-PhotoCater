@@ -1,4 +1,14 @@
 
+## PhotoCater 
+
+<a href="https://bryanhuynh.github.io/CPSC-481-Project">Phase one</a>
+
+<a href="https://bryanhuynh.github.io/CPSC-481-Project/Site/stage2">Phase two </a>
+  
+
+[Phase four]()
+
+[Phase five]()
 
 ### Stage 3
 
@@ -26,6 +36,7 @@ https://github.com/BryanHuynh/CPSC-481-Project
 
 
 ## PhotoCater
+![title_img](img/stage3/image001.png)
 
 ### Project Description: 
 
