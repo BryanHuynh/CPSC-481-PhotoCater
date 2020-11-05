@@ -170,3 +170,24 @@ Our project idea is a photography landmark locator. This application is going to
     - Add a new location 
 
     - Users can go to other user’s or friend’s social media to see more photos by that user 
+
+### Vertical Diagrams
+
+#### Uploading and Sharing Photos
+
+| Description of Task | Does the User have training or knowledger to do this step? | Is it believable that they woiuld do it? | Are they Motivated? | Comments (including possible solutions) | 
+|---|---|---|---|---|
+| User presses the '+' sign at the top left forner of the interface | No | yes| Yes, they want to upload a picture. | When the user mouses over the idon it says "Upload photo" |
+| User picks a photo to be uploaded| no | yes | yes, they have a photo that they want to upload | have a button that says "select photo" below the iumage thumbnail |
+| User puts a pin on the map | no | yes | location is requyired for the photo to be uploaded | Have a message on the top of the window telling the user to click anywhere to apply a pin |
+| User selects tags about the photo type | yes | yes | Yes, it is required to have at least one tag to be uploaded | There is a list of predefined tags that the user can pick from |
+| User defines Camera | yes | yes | Fields required by the user like the type of camera used to take the photo must be filled out | This can be filled out automatically with the meta data if it exists |
+| Upload photo | yes | yes | Yes, it is required to successfully share a photo | There is a button that says "Upload" |
+
+#### Social Media Linkage
+| Description of Task | Does the User have training or knowledger to do this step? | Is it believable that they woiuld do it? | Are they Motivated? | Comments (including possible solutions) | 
+|---|---|---|---|---|
+
+#### Finding Photos or Landmarks
+| Description of Task | Does the User have training or knowledger to do this step? | Is it believable that they woiuld do it? | Are they Motivated? | Comments (including possible solutions) | 
+|---|---|---|---|---|
