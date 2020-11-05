@@ -35,7 +35,7 @@ https://github.com/BryanHuynh/CPSC-481-Project
 
 # PhotoCator 
 
-![title_img](img/image001.png)
+![title_img](img/stage2/image001.png)
 
 ### Description: 
 
@@ -81,9 +81,9 @@ We expect that the users that will use our system, will be anybody who wants to 
 
 - Summary of our findings: We found that a hundred percent of applicants use social media, this means that implementing a social media linkage would be crucial for our app. A lot of our applicants also mainly like taking pictures at around national parks, this means that majority of our applicants like taking pictures outside in nature. We also have discovered that more than 80 percent of our applicants take different photos based on weather, this means that implementing a function that displays different photos taken during different weather conditions would be a valuable function
 
-![title_img](img/image002.png)
-![title_img](img/image003.png)
-![title_img](img/image004.png)
+![title_img](img/stage2/image002.png)
+![title_img](img/stage2/image003.png)
+![title_img](img/stage2/image004.png)
 
 ### Personal Inventory 
 
@@ -97,8 +97,8 @@ We expect that the users that will use our system, will be anybody who wants to 
 
 - Summary: We found from the answers that with the trend of the participants phone being one of the first things listed as important to them when taking photos, we found that all users should have their phones around so it would maybe make more sense to change the medium of the application to mobile over web. 
 
-![title_img](img/image005.png)
-![title_img](img/image006.png)
+![title_img](img/stage2/image005.png)
+![title_img](img/stage2/image006.png)
 
 ### Character Profiles 
 
@@ -233,12 +233,12 @@ We expect that the users that will use our system, will be anybody who wants to 
 | Camera | SLR Film Camera |
 
 #### Personal Inventory Questions:
-![title_img](img/image007.png)
-![title_img](img/image008.png)
+![title_img](img/stage2/image007.png)
+![title_img](img/stage2/image008.png)
 #### Survey Questions (not all):
-![title_img](img/image009.png)
-![title_img](img/image010.png)
-![title_img](img/image011.png)
+![title_img](img/stage2/image009.png)
+![title_img](img/stage2/image010.png)
+![title_img](img/stage2/image011.png)
 
 
 
