@@ -187,7 +187,9 @@ Our project idea is a photography landmark locator. This application is going to
 #### Social Media Linkage
 | Description of Task | Does the User have training or knowledger to do this step? | Is it believable that they woiuld do it? | Are they Motivated? | Comments (including possible solutions) | 
 |---|---|---|---|---|
+||||||
 
 #### Finding Photos or Landmarks
 | Description of Task | Does the User have training or knowledger to do this step? | Is it believable that they woiuld do it? | Are they Motivated? | Comments (including possible solutions) | 
 |---|---|---|---|---|
+||||||
