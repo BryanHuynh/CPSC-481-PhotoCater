@@ -205,13 +205,13 @@ Our project idea is a photography landmark locator. This application is going to
 
 
 #### Social Media Linkage
-| Description of Task | Does the User have training or knowledger to do this step? | Is it believable that they woiuld do it? | Are they Motivated? | Comments (including possible solutions) | 
+|Description of Task|Does the User have training or knowledger to do this step?|Is it believable that they woiuld do it?|Are they Motivated?|Comments (including possible solutions)| 
 |---|---|---|---|---|
-| Click on Friends tab | yes | yes | Yes, if they want to see their friends and link social media they will go look for where those connections are | Yes, if they want to see their friends and link social media they will go look for where those connections are |
-| Click on Link social media button | Yes | Yes | Yes, to link their social media they will need to provide the information to link the account | This can be changed/removed or added later in their profile settings page |
-| Click on the social media icon they want to link | yes | yes | Yes, they have in mind the social media account they want to link so they will go looking for it| This will open a new tab in the browser, that follows to the user's social media page |
-| Fill in their information for that social media they selected | yes | yes | Yes, Photocator needs that information to make the connection, so if they want to attach a social media account to it, they will need to provide this information.| They will only need to do this once and will not be required to do this for ever post they make |
-| Click login button | yes | yes | Yes, they will want to complete the process | The login button will be at the bottom of the form so that their eye naturally follows to the next step |
+|Click on Friends tab|yes|yes|Yes, if they want to see their friends and link social media they will go look for where those connections are|Yes, if they want to see their friends and link social media they will go look for where those connections are.|
+|Click on Link social media button|Yes|Yes|Yes, to link their social media they will need to provide the information to link the account.|This can be changed,removed or added later in their profile settings page|
+|Click on the social media icon they want to link|yes|yes|Yes, they have in mind the social media account they want to link so they will go looking for it| This will open a new tab in the browser, that follows to the user's social media page|
+|Fill in their information for that social media they selected | yes | yes | Yes, Photocator needs that information to make the connection, so if they want to attach a social media account to it, they will need to provide this information.| They will only need to do this once and will not be required to do this for ever post they make.|
+|Click login button | yes | yes | Yes, they will want to complete the process | The login button will be at the bottom of the form so that their eye naturally follows to the next step|
 
 
 #### Finding Photos or Landmarks
