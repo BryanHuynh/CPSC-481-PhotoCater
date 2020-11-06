@@ -206,25 +206,23 @@ Our project idea is a photography landmark locator. This application is going to
 |User defines when the photo was taken, the weather conditions, the busyness of the area, and the caption. |Yes |Yes |It depends on the user, if the user took the photo recently or have good memory, they will have remembered all that information. However, for a user who does not remember this information, may give up or give wrong information about the photo to be able to post it. |This can be filled out automatically with the meta data if it exists. We said that this information needs to be given or else the user cannot upload the photo. Solution: Remove the constriction about having the time, weather, busyness, and caption text fields filled out in order to post it. 
 |Upload photo |Yes |Yes |Yes, it is required to successfully share a photo |There is a button that says “upload” |
 
+#### Linking Social Media 
 
-
-#### Social Media Linkage
-|Description of Task|Does the User have training or knowledger to do this step?|Is it believable that they woiuld do it?|Are they Motivated?|Comments (including possible solutions)| 
+|Description of task step |Does user have training or knowledge to do this step? |Is it believable that they would do it? |Are they motivated? |Comments (including possible solutions) |
 |---|---|---|---|---|
-|Click on Friends tab|yes|yes|Yes, if they want to see their friends and link social media they will go look for where those connections are|Yes, if they want to see their friends and link social media they will go look for where those connections are.|
-|Click on Link social media button|Yes|Yes|Yes, to link their social media they will need to provide the information to link the account.|This can be changed,removed or added later in their profile settings page|
-|Click on the social media icon they want to link|yes|yes|Yes, they have in mind the social media account they want to link so they will go looking for it| This will open a new tab in the browser, that follows to the user's social media page|
-|Fill in their information for that social media they selected | yes | yes | Yes, Photocator needs that information to make the connection, so if they want to attach a social media account to it, they will need to provide this information.| They will only need to do this once and will not be required to do this for ever post they make.|
-|Click login button | yes | yes | Yes, they will want to complete the process | The login button will be at the bottom of the form so that their eye naturally follows to the next step|
+|Click on friend's tab in the top right corner |Yes |Yes |Yes, if they want to see their friends and link social media they will go look for where those connections are |Yes, if they want to see their friends and link social media they will go look for where those connections are |
+|Click on Link social media button |Yes |Yes |Yes, to link their social media they will need to provide the information to link the account |This can be changed/removed or added later in their profile settings page |
+|Click on the social media icon they want to link |Yes  |Yes |Yes, they have in mind the social media account they want to link so they will go looking for it  |This will open a new tab in the browser, that follows to the user's social media page |
+|Fill in their information for that social media they selected |yes |Yes |Yes, Photocator needs that information to make the connection, so if they want to attach a social media account to it, they will need to provide this information. |They will only need to do this once and will not be required to do this for ever post they make 
+|Click login button |Yes |Yes |Yes, they will want to complete the process |The login button will be at the bottom of the form so that their eye naturally follows to the next step |
 
+### Finding Landmarks 
 
-#### Finding Photos or Landmarks
-| Description of Task | Does the User have training or knowledger to do this step? | Is it believable that they woiuld do it? | Are they Motivated? | Comments (including possible solutions) | 
+|Description of task step |Does user have training or knowledge to do this step? |Is it believable that they would do it? |Are they motivated? |Comments (including possible solutions) |
 |---|---|---|---|---|
-| Login or sign up | yes | yes | yes | They can save their sign in so they only need to do it once per computer |
-| Adding filters | yes | yes | yes | There will be a list of tags that they the user can select |
-| Click on a pin on the map to preview a photo | no | yes | Yes, that is one of the ways to view other photos from that location | When the click on a pin, they can easily close the preview menu so that they can find another pin. They can zoom into a map so that they can more accurately select a certain pin |
-| They click on the feed to preview a photo | no | yes | If they find a photo that they are interested in and want to know more about it | The menu is on the home page for ease of access, and allowing them to quickly find a large set of photos quickly |
+|Adding filters |Yes |Yes |Yes |This is optional the user can either choose to filter to find specific pictures or they can choose to browse freely. There will be a list of tags that they the user can select |
+|Click on a pin on the map to preview a photo or they click on the photo preview in the home screen feed or they use the search bar |No |Yes |Yes, that is one of the ways to view other photos from that location | When the click on a pin, they can easily close the preview menu so that they can find another pin. They can zoom into a map so that they can more accurately select a certain pin. The menu is on the home page for ease of access, and allowing them to quickly find a large set of photos quickly |
+|Clicks on the direction button |Yes |Yes |Yes |When the button is clicked it gives them the direction to get to the landmark. |
 
 #### Accessibility Tab Usage 
 
