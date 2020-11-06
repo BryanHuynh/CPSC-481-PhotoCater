@@ -174,7 +174,7 @@ Our project idea is a photography landmark locator. This application is going to
 
     - Users can go to other user’s or friend’s social media to see more photos by that user 
 
-### Vertical Diagrams
+### Cognitive Walkthrough
 
 #### Uploading and Sharing Photos
 
@@ -231,6 +231,15 @@ Our project idea is a photography landmark locator. This application is going to
 |The user gives rating by clicking on the number of stars. |No |Yes |Yes |Giving ratings this way is very effective way to give ratings effortlessly. |
 |The user clicks on the empty review text box to give a written review or comments to emphasize key points about that landmark |Yes |Yes |It depends if the user is looking to give a quick rating or a full-on review to let others know specifically what is good about that place |This part is optional the user can either choose to leave a written review or not, however the rating is required. |
 |The user clicks the "post review” button |Yes |Yes |Yes |The review is uploaded for others to see. |
+
+#### Adding Friends 
+
+|Description of task step |Does user have training or knowledge to do this step? |Is it believable that they would do it? |Are they motivated? |Comments (including possible solutions) |
+|---|---|---|---|---|
+|Click’s the friend icon in the top right corner |No |Yes |Yes |The user may not know what the icon means. Solution: We could give the menu a small label |
+|The user clicks the “add friend” button |Yes |Yes |Yes ||
+|The user searches for friends using the search bar, using keywords like name, tag and location. |Yes|Yes |If the user is someone who isn’t very technologically advanced and dislikes typing or cannot type quickly, then searching for friends based off multiple categories may exhaust the user and may make them give up |The use can filter finding different people by using different keywords to find specific targets. Solution: Make the some of the categories drop down menus. Make tag, category and location drop down menus instead of manually searching for them |
+|The user clicks the add friend button in the bottom left corner of each profile preview |No |Yes |If the user has poor eyesight, the icon maybe hard to spot, it is quite small. |Solution: Reposition the button into a spot where it is bigger and will catch the users’ eye more easily and maybe add a label |
 
 
 
