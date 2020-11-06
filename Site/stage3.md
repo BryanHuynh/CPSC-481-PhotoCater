@@ -176,7 +176,7 @@ Our project idea is a photography landmark locator. This application is going to
 
 ### Story Board
 
-![img](img/stage3/StoryBoard.png)
+![img](img/stage3/storyBoard.png)
 
 ### Cognitive Walkthrough
 
