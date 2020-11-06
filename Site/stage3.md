@@ -205,13 +205,27 @@ Our project idea is a photography landmark locator. This application is going to
 | Click on a pin on the map to preview a photo | no | yes | Yes, that is one of the ways to view other photos from that location | When the click on a pin, they can easily close the preview menu so that they can find another pin. They can zoom into a map so that they can more accurately select a certain pin |
 | They click on the feed to preview a photo | no | yes | If they find a photo that they are interested in and want to know more about it | The menu is on the home page for ease of access, and allowing them to quickly find a large set of photos quickly |
 
-Accessibility Tab Usage 
+#### Accessibility Tab Usage 
 
 | Description of task step | Does user have training or knowledge to do this step? | Is it believable that they would do it? | Are they motivated? | Comments (including possible solutions) |
 |---|---|---|---|---|
 | User clicks on the accessibility icon in the top right corner | No | Yes | Yes, if the user has certain issues with interacting with a webpage for example has dyslexia, they will be looking for tools to make their experience easier  | The icon could use a label to help more clearly define what its there for |
 | The user selects the options that they would like enabled | Yes | Yes | Yes | They would know which options to turn on since they would be very familiar with their challenges. |
 | User clicks Enable button | Yes | Yes | Yes, as this will enact rules they have selected to affect the site. ||
+
+#### Editing and customizing the user's own profile
+
+|Description of task step |Does user have training or knowledge to do this step? |Is it believable that they would do it? |Are they motivated? |Comments (including possible solutions) |
+|---|---|---|---|---|
+|The user clicks on the ‘profile’ icon in the top right corner. |No |Yes |Yes |The icon is quite like the friend's icon, we can fix this by giving the icon a small label |
+|The user clicks the ‘edit’ button on her own profile page |Yes |Yes |Yes |The button is placed right in the middle of the header, it is very hard to miss |
+|The user clicks on the empty text field and adds a biography about themselves. |Yes |Yes |Depends if they want people to know what kind of person, they are |This part is optional the user can either choose to write a biography about themselves or not. |
+|The user clicks on the social media icons and links their social media. |Yes |Yes |Depends if the user wants to share their social media with others |This part is also optional, the user can choose whether to leave them unlinked or linked |
+|The user clicks on “add pictures” button to upload a new photo to his profile. |Yes |Yes |Yes ||
+
+ 
+
+
 
  
 
