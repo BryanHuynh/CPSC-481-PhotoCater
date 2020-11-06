@@ -56,7 +56,7 @@ Our project idea is a photography landmark locator. This application is going to
 
 ### Top 3 Ideas
 
-1. SOCIAL MEDIA LINKAGE 
+1. CONNECTING WITH FRIENDS THROUGH THE USE OF SOCIAL MEDIA LINKAGE
 
 - We want to use this app to increase exposure to all photographers despite their follow count.  
 
@@ -74,7 +74,7 @@ Our project idea is a photography landmark locator. This application is going to
 
 - The user also has a choice of logging into their account with their choice of social media platform. 
 
-2. FINDING NEW PHOTOS 
+2. FINDING NEW PHOTOS USING LOCATION TRACKING / PHOTO GENRES
 
 - We hope for people to find new photos and photographers of all follower counts.  
 
@@ -110,7 +110,7 @@ Our project idea is a photography landmark locator. This application is going to
 
 - Also, the user will have a choice of seeing directions to get to that area, when the pin is clicked 
 
-3. UPLOADING PICTURES 
+3. UPLOADING PICTURES USING LOCATION TRACKING 
 
 - When the user has taken the photos that they want, and they upload them once they have copied them onto their computer or have them on their phone, they will have the option to upload the photos along with the location they were taken. When they click the upload button they will be taken to another screen where they will have to pick a pin or add a new one for where they took the photos. 
 
