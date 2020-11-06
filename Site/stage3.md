@@ -35,24 +35,6 @@ https://github.com/BryanHuynh/CPSC-481-Project
 Our project idea is a photography landmark locator. This application is going to look like a navigation app like google maps, but instead the focus of this app is for people to share unique and interesting locations for beautiful photography. To do this, when a photo is uploaded, they will be asked to give a description of the longitude and latitude of the photo, along with the date and time of day, so that one can go out and recreate the photo if the wish. We also plan to link it towards social media, so you can see the pictures that your peers take. 
 
 
-### Affinity Diagram 
-
-
-| Quality of Life/ Usability | Finding Landmarks | Sharing Pictures |
-|---|---|---|
-| acessibility option | Scrollable Map area | For location area using pin and radar|
-| Changing temp Format | Exploring popular images of a landmark | Manual location entry |
-| Saving favourites | Filtering | Comments and Reviews |
-| Increasing site text size | All pins appear in photo feed | Messaging client |
-| Customizable profiles | a preview image with description when you click on an image | Reviewing and commenting on photos |
-| Credential based log in using varioius platforms (ex, Twitter, Facebook) | Search bar for finding pictures | Profile page |
-| Changing your user profile | Providing Date and weather data for pictures | Viewing Contact list |
-| Add Notifications to the user | Busy Alert for covid-19 and other emergencies | Choosing a pin or radar to display location of the picture |
-| Toggling for comic sans (accessibility) | Slider picture menu | Social media linkage |
-| Changing language | Slider picture Menu | Being able to click on the map when you upload an image to add a new location |
-| Having Dark Mode | A preview image with description when you click on an image | Reviewing Pictures and adding the location with pins and radars |
-| Changing user profile | | Having in site friends and social media connections | 
-| | | Uploading pictures |
 
 ### Top 3 Ideas
 
@@ -177,6 +159,27 @@ Our project idea is a photography landmark locator. This application is going to
 ### Story Board
 
 ![img](img/stage3/storyBoard.png)
+
+## Appendix
+
+### Affinity Diagram 
+
+
+| Quality of Life/ Usability | Finding Landmarks | Sharing Pictures |
+|---|---|---|
+| acessibility option | Scrollable Map area | For location area using pin and radar|
+| Changing temp Format | Exploring popular images of a landmark | Manual location entry |
+| Saving favourites | Filtering | Comments and Reviews |
+| Increasing site text size | All pins appear in photo feed | Messaging client |
+| Customizable profiles | a preview image with description when you click on an image | Reviewing and commenting on photos |
+| Credential based log in using varioius platforms (ex, Twitter, Facebook) | Search bar for finding pictures | Profile page |
+| Changing your user profile | Providing Date and weather data for pictures | Viewing Contact list |
+| Add Notifications to the user | Busy Alert for covid-19 and other emergencies | Choosing a pin or radar to display location of the picture |
+| Toggling for comic sans (accessibility) | Slider picture menu | Social media linkage |
+| Changing language | Slider picture Menu | Being able to click on the map when you upload an image to add a new location |
+| Having Dark Mode | A preview image with description when you click on an image | Reviewing Pictures and adding the location with pins and radars |
+| Changing user profile | | Having in site friends and social media connections | 
+| | | Uploading pictures |
 
 ### Cognitive Walkthrough
 
