@@ -241,6 +241,18 @@ Our project idea is a photography landmark locator. This application is going to
 |The user searches for friends using the search bar, using keywords like name, tag and location. |Yes|Yes |If the user is someone who isn’t very technologically advanced and dislikes typing or cannot type quickly, then searching for friends based off multiple categories may exhaust the user and may make them give up |The use can filter finding different people by using different keywords to find specific targets. Solution: Make the some of the categories drop down menus. Make tag, category and location drop down menus instead of manually searching for them |
 |The user clicks the add friend button in the bottom left corner of each profile preview |No |Yes |If the user has poor eyesight, the icon maybe hard to spot, it is quite small. |Solution: Reposition the button into a spot where it is bigger and will catch the users’ eye more easily and maybe add a label |
 
+#### Filtering 
+
+|Description of task step |Does user have training or knowledge to do this step? |Is it believable that they would do it? |Are they motivated? |Comments (including possible solutions) |
+|---|---|---|---|---|
+|Click’s the hamburger menu at the top left corner |No |Depends if they want to search for specific pictures or just browse. |Depends if the user is searching for specific pictures. |Solution: Hovering over the hamburger menu will display a message saying ‘filter’ |
+|Or we could give the menu a small label |The user selects the filter(s) of his choice |Yes |Yes |With the long list of filters, the user may find it hard to find his specific filter, the user may give up if he cannot find it. |Solution: Adding a search bar to the filter window to search for different filters to make them easier to find. |
+|The user clicks “update filter” |Yes |Yes |Yes ||
+
+ 
+
+
+
 
 
 
