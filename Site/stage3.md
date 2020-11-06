@@ -216,7 +216,7 @@ Our project idea is a photography landmark locator. This application is going to
 |Fill in their information for that social media they selected |yes |Yes |Yes, Photocator needs that information to make the connection, so if they want to attach a social media account to it, they will need to provide this information. |They will only need to do this once and will not be required to do this for ever post they make 
 |Click login button |Yes |Yes |Yes, they will want to complete the process |The login button will be at the bottom of the form so that their eye naturally follows to the next step |
 
-### Finding Landmarks 
+#### Finding Landmarks 
 
 |Description of task step |Does user have training or knowledge to do this step? |Is it believable that they would do it? |Are they motivated? |Comments (including possible solutions) |
 |---|---|---|---|---|
