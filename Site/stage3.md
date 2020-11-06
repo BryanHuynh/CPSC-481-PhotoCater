@@ -174,6 +174,10 @@ Our project idea is a photography landmark locator. This application is going to
 
     - Users can go to other user’s or friend’s social media to see more photos by that user 
 
+### Story Board
+
+![img](img/stage3/StoryBoard.png)
+
 ### Cognitive Walkthrough
 
 #### Uploading and Sharing Photos / Adding a location
