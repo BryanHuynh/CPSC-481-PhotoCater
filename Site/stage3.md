@@ -223,7 +223,16 @@ Our project idea is a photography landmark locator. This application is going to
 |The user clicks on the social media icons and links their social media. |Yes |Yes |Depends if the user wants to share their social media with others |This part is also optional, the user can choose whether to leave them unlinked or linked |
 |The user clicks on “add pictures” button to upload a new photo to his profile. |Yes |Yes |Yes ||
 
- 
+#### Writing reviews on landmarks 
+
+| Description of task step |Does user have training or knowledge to do this step? |Is it believable that they would do it? |Are they motivated? |Comments (including possible solutions) |
+|---|---|---|---|---|
+|The user clicks “add review” on the photo preview popup |Yes |Yes |Yes ||
+|The user gives rating by clicking on the number of stars. |No |Yes |Yes |Giving ratings this way is very effective way to give ratings effortlessly. |
+|The user clicks on the empty review text box to give a written review or comments to emphasize key points about that landmark |Yes |Yes |It depends if the user is looking to give a quick rating or a full-on review to let others know specifically what is good about that place |This part is optional the user can either choose to leave a written review or not, however the rating is required. |
+|The user clicks the "post review” button |Yes |Yes |Yes |The review is uploaded for others to see. |
+
+
 
 
 
