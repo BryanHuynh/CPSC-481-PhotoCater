@@ -1,6 +1,8 @@
 
+## PhotoCater 
+<a href="https://bryanhuynh.github.io/CPSC-481-Project">- Phase one</a>    <a href="https://bryanhuynh.github.io/CPSC-481-Project/Site/stage2">- Phase two </a>    <a href="https://bryanhuynh.github.io/CPSC-481-Project/Site/stage4">- Phase Four</a>    <a href="https://bryanhuynh.github.io/CPSC-481-Project/Site/stage5">- Phase Five</a>
 
-### Stage 3
+## Stage 3
 
 #### Members (Team F/TUT03):  
 
@@ -26,6 +28,7 @@ https://github.com/BryanHuynh/CPSC-481-Project
 
 
 ## PhotoCater
+![title_img](img/stage3/image001.png)
 
 ### Project Description: 
 
@@ -53,7 +56,7 @@ Our project idea is a photography landmark locator. This application is going to
 
 ### Top 3 Ideas
 
-1. SOCIAL MEDIA LINKAGE 
+1. CONNECTING WITH FRIENDS THROUGH THE USE OF SOCIAL MEDIA LINKAGE
 
 - We want to use this app to increase exposure to all photographers despite their follow count.  
 
@@ -71,7 +74,7 @@ Our project idea is a photography landmark locator. This application is going to
 
 - The user also has a choice of logging into their account with their choice of social media platform. 
 
-2. FINDING NEW PHOTOS 
+2. FINDING NEW PHOTOS USING LOCATION TRACKING / PHOTO GENRES
 
 - We hope for people to find new photos and photographers of all follower counts.  
 
@@ -107,7 +110,7 @@ Our project idea is a photography landmark locator. This application is going to
 
 - Also, the user will have a choice of seeing directions to get to that area, when the pin is clicked 
 
-3. UPLOADING PICTURES 
+3. UPLOADING PICTURES USING LOCATION TRACKING 
 
 - When the user has taken the photos that they want, and they upload them once they have copied them onto their computer or have them on their phone, they will have the option to upload the photos along with the location they were taken. When they click the upload button they will be taken to another screen where they will have to pick a pin or add a new one for where they took the photos. 
 
@@ -171,28 +174,48 @@ Our project idea is a photography landmark locator. This application is going to
 
     - Users can go to other user’s or friend’s social media to see more photos by that user 
 
-### Vertical Diagrams
+### Story Board
 
-#### Uploading and Sharing Photos
+![img](img/stage3/storyBoard.png)
 
-| Description of Task | Does the User have training or knowledger to do this step? | Is it believable that they woiuld do it? | Are they Motivated? | Comments (including possible solutions) | 
+### Cognitive Walkthrough
+
+#### Uploading and Sharing Photos / Adding a location
+
+|Description of task step |Does user have training or knowledge to do this step? |Is it believable that they would do it? |Are they motivated? |Comments (including possible solutions) |
 |---|---|---|---|---|
-| User presses the '+' sign at the top left forner of the interface | No | yes| Yes, they want to upload a picture. | When the user mouses over the idon it says "Upload photo" |
-| User picks a photo to be uploaded| no | yes | yes, they have a photo that they want to upload | have a button that says "select photo" below the iumage thumbnail |
-| User puts a pin on the map | no | yes | location is requyired for the photo to be uploaded | Have a message on the top of the window telling the user to click anywhere to apply a pin |
-| User selects tags about the photo type | yes | yes | Yes, it is required to have at least one tag to be uploaded | There is a list of predefined tags that the user can pick from |
-| User defines Camera | yes | yes | Fields required by the user like the type of camera used to take the photo must be filled out | This can be filled out automatically with the meta data if it exists |
-| Upload photo | yes | yes | Yes, it is required to successfully share a photo | There is a button that says "Upload" |
+|Login or sign up |Yes |Yes |Yes ||
+|User presses the ‘+’ sign at the top left corner of the interface |No |Yes |Yes, they want to share a picture. |When the user mouses over the icon it says “upload photo” Or we could give the menu a small label |
+|User picks a photo to be uploaded  |No |Yes |Yes, they have a photo that they want to upload |Have a button that says “select Photo” below the image thumbnail. |
+|User puts a pin on the map or enters the coordinates in the text fields|No |Yes |Location is required for the photo to be uploaded |Have a message on the top of the window telling the user to click anywhere to apply a pin. The text fields also have a placeholder that says ‘latitude’ and ‘longitude’, so the user knows to put that information there.|
+|User selects tags about the photo type |Yes |Yes |Depends on the user, if the user does not want to add tags to the photo because maybe their tag isn’t there, the user may give up or give wrong information just to the user can be able to post the picture. |There is a list of predefined tags that that the user can pick from, We said that it is required to have these fields filled in to have the ability to post the picture. Solution: Remove the constriction of tags being required to share photos. If the user does not put any tag, section the tag under a new category called ‘any’ |
+|User defines camera  |Yes |Yes |Yes, fields required by the user like the type of camera, to be filled out |Some fields can be filled out automatically based on the photos meta-data |
+|User defines when the photo was taken, the weather conditions, the busyness of the area, and the caption. |Yes |Yes |It depends on the user, if the user took the photo recently or have good memory, they will have remembered all that information. However, for a user who does not remember this information, may give up or give wrong information about the photo to be able to post it. |This can be filled out automatically with the meta data if it exists. We said that this information needs to be given or else the user cannot upload the photo. Solution: Remove the constriction about having the time, weather, busyness, and caption text fields filled out in order to post it. 
+|Upload photo |Yes |Yes |Yes, it is required to successfully share a photo |There is a button that says “upload” |
+
+#### Uploading and sharing photos (Existing location) 
+
+|Description of task step |Does user have training or knowledge to do this step? |Is it believable that they would do it? |Are they motivated? |Comments (including possible solutions) |
+|---|---|---|---|---|
+|Login or sign up |Yes |Yes |Yes ||
+|User presses the ‘+’ sign at the top left corner of the interface |No |Yes |Yes, they want to share a picture. |When the user mouses over the icon it says “upload photo” Or we could give the menu a small label |
+|User picks a photo to be uploaded  |No |Yes |Yes, they have a photo that they want to upload |Have a button that says “select Photo” below the image thumbnail. |
+|User searches for the location in the database of locations photos have already been taken at |No |Yes |Location is required for the photo to be uploaded |Add prompts telling the user they can search for the location in the search window provided. |
+|User selects tags about the photo type |Yes |Yes |Depends on the user, if the user does not want to add tags to the photo because maybe their tag isn’t there, the user may give up or give wrong information just to the user can be able to post the picture. |There is a list of predefined tags that that the user can pick from, We said that it is required to have these fields filled in to have the ability to post the picture. Solution: Remove the constriction of tags being required to share photos. If the user does not put any tag, section the tag under a new category called ‘any’ |
+|User defines camera  |Yes |Yes |Yes, fields required by the user like the type of camera, to be filled out |Some fields can be filled out automatically based on the photos meta-data |
+|User defines when the photo was taken, the weather conditions, the busyness of the area, and the caption. |Yes |Yes |It depends on the user, if the user took the photo recently or have good memory, they will have remembered all that information. However, for a user who does not remember this information, may give up or give wrong information about the photo to be able to post it. |This can be filled out automatically with the meta data if it exists. We said that this information needs to be given or else the user cannot upload the photo. Solution: Remove the constriction about having the time, weather, busyness, and caption text fields filled out in order to post it. 
+|Upload photo |Yes |Yes |Yes, it is required to successfully share a photo |There is a button that says “upload” |
+
 
 
 #### Social Media Linkage
-| Description of Task | Does the User have training or knowledger to do this step? | Is it believable that they woiuld do it? | Are they Motivated? | Comments (including possible solutions) | 
+|Description of Task|Does the User have training or knowledger to do this step?|Is it believable that they woiuld do it?|Are they Motivated?|Comments (including possible solutions)| 
 |---|---|---|---|---|
-| Click on Friends tab | yes | yes |Yes, if they want to see their friends and link social media they will go look for where those connections are |Yes, if they want to see their friends and link social media they will go look for where those connections are |
-|Click on Link social media button | Yes | Yes | Yes, to link their social media they will need to provide the information to link the account | This can be changed/removed or added later in their profile settings page |
-| Click on the social media icon they want to link | yes | yes | Yes, they have in mind the social media account they want to link so they will go looking for it| This will open a new tab in the browser, that follows to the user's social media page |
-| Fill in their information for that social media they selected | yes | yes | Yes, Photocator needs that information to make the connection, so if they want to attach a social media account to it, they will need to provide this information. | They will only need to do this once and will not be required to do this for ever post they make |
-| Click login button | yes | yes | Yes, they will want to complete the process | The login button will be at the bottom of the form so that their eye naturally follows to the next step |
+|Click on Friends tab|yes|yes|Yes, if they want to see their friends and link social media they will go look for where those connections are|Yes, if they want to see their friends and link social media they will go look for where those connections are.|
+|Click on Link social media button|Yes|Yes|Yes, to link their social media they will need to provide the information to link the account.|This can be changed,removed or added later in their profile settings page|
+|Click on the social media icon they want to link|yes|yes|Yes, they have in mind the social media account they want to link so they will go looking for it| This will open a new tab in the browser, that follows to the user's social media page|
+|Fill in their information for that social media they selected | yes | yes | Yes, Photocator needs that information to make the connection, so if they want to attach a social media account to it, they will need to provide this information.| They will only need to do this once and will not be required to do this for ever post they make.|
+|Click login button | yes | yes | Yes, they will want to complete the process | The login button will be at the bottom of the form so that their eye naturally follows to the next step|
 
 
 #### Finding Photos or Landmarks
@@ -202,3 +225,58 @@ Our project idea is a photography landmark locator. This application is going to
 | Adding filters | yes | yes | yes | There will be a list of tags that they the user can select |
 | Click on a pin on the map to preview a photo | no | yes | Yes, that is one of the ways to view other photos from that location | When the click on a pin, they can easily close the preview menu so that they can find another pin. They can zoom into a map so that they can more accurately select a certain pin |
 | They click on the feed to preview a photo | no | yes | If they find a photo that they are interested in and want to know more about it | The menu is on the home page for ease of access, and allowing them to quickly find a large set of photos quickly |
+
+#### Accessibility Tab Usage 
+
+| Description of task step | Does user have training or knowledge to do this step? | Is it believable that they would do it? | Are they motivated? | Comments (including possible solutions) |
+|---|---|---|---|---|
+| User clicks on the accessibility icon in the top right corner | No | Yes | Yes, if the user has certain issues with interacting with a webpage for example has dyslexia, they will be looking for tools to make their experience easier  | The icon could use a label to help more clearly define what its there for |
+| The user selects the options that they would like enabled | Yes | Yes | Yes | They would know which options to turn on since they would be very familiar with their challenges. |
+| User clicks Enable button | Yes | Yes | Yes, as this will enact rules they have selected to affect the site. ||
+
+#### Editing and customizing the user's own profile
+
+|Description of task step |Does user have training or knowledge to do this step? |Is it believable that they would do it? |Are they motivated? |Comments (including possible solutions) |
+|---|---|---|---|---|
+|The user clicks on the ‘profile’ icon in the top right corner. |No |Yes |Yes |The icon is quite like the friend's icon, we can fix this by giving the icon a small label |
+|The user clicks the ‘edit’ button on her own profile page |Yes |Yes |Yes |The button is placed right in the middle of the header, it is very hard to miss |
+|The user clicks on the empty text field and adds a biography about themselves. |Yes |Yes |Depends if they want people to know what kind of person, they are |This part is optional the user can either choose to write a biography about themselves or not. |
+|The user clicks on the social media icons and links their social media. |Yes |Yes |Depends if the user wants to share their social media with others |This part is also optional, the user can choose whether to leave them unlinked or linked |
+|The user clicks on “add pictures” button to upload a new photo to his profile. |Yes |Yes |Yes ||
+
+#### Writing reviews on landmarks 
+
+| Description of task step |Does user have training or knowledge to do this step? |Is it believable that they would do it? |Are they motivated? |Comments (including possible solutions) |
+|---|---|---|---|---|
+|The user clicks “add review” on the photo preview popup |Yes |Yes |Yes ||
+|The user gives rating by clicking on the number of stars. |No |Yes |Yes |Giving ratings this way is very effective way to give ratings effortlessly. |
+|The user clicks on the empty review text box to give a written review or comments to emphasize key points about that landmark |Yes |Yes |It depends if the user is looking to give a quick rating or a full-on review to let others know specifically what is good about that place |This part is optional the user can either choose to leave a written review or not, however the rating is required. |
+|The user clicks the "post review” button |Yes |Yes |Yes |The review is uploaded for others to see. |
+
+#### Adding Friends 
+
+|Description of task step |Does user have training or knowledge to do this step? |Is it believable that they would do it? |Are they motivated? |Comments (including possible solutions) |
+|---|---|---|---|---|
+|Click’s the friend icon in the top right corner |No |Yes |Yes |The user may not know what the icon means. Solution: We could give the menu a small label |
+|The user clicks the “add friend” button |Yes |Yes |Yes ||
+|The user searches for friends using the search bar, using keywords like name, tag and location. |Yes|Yes |If the user is someone who isn’t very technologically advanced and dislikes typing or cannot type quickly, then searching for friends based off multiple categories may exhaust the user and may make them give up |The use can filter finding different people by using different keywords to find specific targets. Solution: Make the some of the categories drop down menus. Make tag, category and location drop down menus instead of manually searching for them |
+|The user clicks the add friend button in the bottom left corner of each profile preview |No |Yes |If the user has poor eyesight, the icon maybe hard to spot, it is quite small. |Solution: Reposition the button into a spot where it is bigger and will catch the users’ eye more easily and maybe add a label |
+
+#### Filtering 
+
+|Description of task step |Does user have training or knowledge to do this step? |Is it believable that they would do it? |Are they motivated? |Comments (including possible solutions) |
+|---|---|---|---|---|
+|Click’s the hamburger menu at the top left corner |No |Depends if they want to search for specific pictures or just browse. |Depends if the user is searching for specific pictures. |Solution: Hovering over the hamburger menu will display a message saying ‘filter’ |
+|Or we could give the menu a small label |The user selects the filter(s) of his choice |Yes |Yes |With the long list of filters, the user may find it hard to find his specific filter, the user may give up if he cannot find it. |Solution: Adding a search bar to the filter window to search for different filters to make them easier to find. |
+|The user clicks “update filter” |Yes |Yes |Yes ||
+
+ 
+
+
+
+
+
+
+
+ 
+
