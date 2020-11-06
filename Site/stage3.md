@@ -176,7 +176,7 @@ Our project idea is a photography landmark locator. This application is going to
 
 ### Cognitive Walkthrough
 
-#### Uploading and Sharing Photos
+#### Uploading and Sharing Photos / Adding a location
 
 | Description of Task | Does the User have training or knowledger to do this step? | Is it believable that they woiuld do it? | Are they Motivated? | Comments (including possible solutions) | 
 |---|---|---|---|---|
@@ -186,6 +186,21 @@ Our project idea is a photography landmark locator. This application is going to
 | User selects tags about the photo type | yes | yes | Yes, it is required to have at least one tag to be uploaded | There is a list of predefined tags that the user can pick from |
 | User defines Camera | yes | yes | Fields required by the user like the type of camera used to take the photo must be filled out | This can be filled out automatically with the meta data if it exists |
 | Upload photo | yes | yes | Yes, it is required to successfully share a photo | There is a button that says "Upload" |
+
+#### Uploading and sharing photos (Existing location) 
+
+|Description of task step |Does user have training or knowledge to do this step? |Is it believable that they would do it? |Are they motivated? |Comments (including possible solutions) |
+|---|---|---|---|---|
+|Login or sign up |Yes |Yes |Yes ||
+|User presses the ‘+’ sign at the top left corner of the interface |No |Yes |Yes, they want to share a picture. |When the user mouses over the icon it says “upload photo” Or we could give the menu a small label |
+|User picks a photo to be uploaded  |No |Yes |Yes, they have a photo that they want to upload |Have a button that says “select Photo” below the image thumbnail. |
+|User searches for the location in the database of locations photos have already been taken at |No |Yes |Location is required for the photo to be uploaded |Add prompts telling the user they can search for the location in the search window provided. |
+|User selects tags about the photo type |Yes |Yes |Depends on the user, if the user does not want to add tags to the photo because maybe their tag isn’t there, the user may give up or give wrong information just to the user can be able to post the picture. |There is a list of predefined tags that that the user can pick from, We said that it is required to have these fields filled in to have the ability to post the picture Solution: Remove the constriction of tags being required to share photos. If the user does not put any tag, section the tag under a new category called ‘any’ |
+|User defines camera  |Yes |Yes |Yes, fields required by the user like the type of camera, to be filled out |Some fields can be filled out automatically based on the photos meta-data |
+|User defines when the photo was taken, the weather conditions, the busyness of the area, and the caption. |Yes |Yes |It depends on the user, if the user took the photo recently or have good memory, they will have remembered all that information. However, for a user who does not remember this information, may give up or give wrong information about the photo to be able to post it. |This can be filled out automatically with the meta data if it exists. We said that this information needs to be given or else the user cannot upload the photo Solution: Remove the constriction about having the time, weather, busyness, and caption text fields filled out in order to post it. 
+|Upload photo |Yes |Yes |Yes, it is required to successfully share a photo |There is a button that says “upload” |
+
+
 
 #### Social Media Linkage
 | Description of Task | Does the User have training or knowledger to do this step? | Is it believable that they woiuld do it? | Are they Motivated? | Comments (including possible solutions) | 
