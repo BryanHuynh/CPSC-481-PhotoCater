@@ -28,7 +28,7 @@ https://github.com/BryanHuynh/CPSC-481-Project
 
 #### File downloads for stage 3
 
-<a href="https://bryanhuynh.github.io/cpsc-481-Project/Site/files/stage3/stage3Doc.pdf" download> Report Download </a>
+<a href="https://raw.githubusercontent.com/bryanhuynh/cpsc-481-Project/master/Site/files/stage3/stage3Doc.pdf" download> Report Download </a>
 
 
 ## PhotoCater
