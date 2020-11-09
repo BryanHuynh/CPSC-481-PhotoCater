@@ -117,7 +117,7 @@ Our project idea is a photography landmark locator. This application is going to
 
     - Weather 
 
- ### Discussion of Groups
+### Discussion of Groups
 
 - Quality of Life/ Usability 
 
