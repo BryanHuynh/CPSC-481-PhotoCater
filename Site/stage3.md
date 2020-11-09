@@ -117,77 +117,22 @@ Had we done this again, we would have made sure to designated one unique page fo
 
 1. CONNECTING WITH FRIENDS THROUGH THE USE OF SOCIAL MEDIA LINKAGE
 
-- We want to use this app to increase exposure to all photographers despite their follow count.  
-
-- By linking their social media, it will allow for people who find photos that they post to follow up and find even more photos on their social page.  
-
-- When signing up, the users have a choice of linking their social media to their account, their choices for social media will be: 
-
-    - Instagram 
-
-    - Facebook 
-
-    - Twitter 
-
-- If they did not link their account when signing up, they will still have a choice in linking their account through the friend's tab on the main screen. 
-
-- The user also has a choice of logging into their account with their choice of social media platform. 
+- We want users to be able to connect with more friends than just through Photocator, thus we want to be able for users to include their friends from their favorite social media app.
+- The user can link this app through 3 platforms (Twitter, Facebook, Instagram)
+- The user can link their account through the sign-up page, log in pageand through the home screen.
 
 2. FINDING NEW PHOTOS USING FILTERING AND NAVIGATION ICONS
 
-- We hope for people to find new photos and photographers of all follower counts.  
-
-- The user can do many actions to find a photo of their choosing 
-
-    - On the main screen there will be pins on the map, indicating pictures that we're taken from that place, when those pins are clicked a photo feed of pictures that were taken there will appear 
-
-    - They can also filter these pins by categories 
-
-        - Architectural 
-
-        - Model 
-
-        - Scenery 
-
-        - Landscape 
-
-        - Etc 
-
-    - Choosing a filter will result in showing different pins based on the chose category. 
-
-    - The search bar is used for searching specific places or coordinates to view pictures taken in that area. 
-
-- The pin also contains much information of the pictures taken in that area: 
-
-    - Reviews on the area 
-
-    - If it's busy or not (COVID) 
-
-    - When it was taken 
-
-    - Etc 
-
-- Also, the user will have a choice of seeing directions to get to that area, when the pin is clicked 
+- As this the focus of our app, the user should be able to find photos and directions to those places effortlessly
+- The user has a choice of filtering which type of pictures they want to find, changing these filters changes the pins that you would see on the map.
+- Once the user finds their pin, they just need to click on it, and it will give them all the information about that picture (time, location, camera, tags, rating, comments, weather conditions, the busyness of the area).
+- The user then can click the direction button for the directions to get to that area
 
 3. UPLOADING PICTURES USING A MULTI-PAGE DESIGN
 
-- When the user has taken the photos that they want, and they upload them once they have copied them onto their computer or have them on their phone, they will have the option to upload the photos along with the location they were taken. When they click the upload button they will be taken to another screen where they will have to pick a pin or add a new one for where they took the photos. 
-
-- If they are adding a new pin, they will be asked which form they would like to enter the location that could be one of the following choices: 
-
-    - Google maps api search 
-
-    - Lat long entry 
-
-    - Pin drop on map
-
-- Once they enter the location of photoshoot, they can add comments or descriptions to like: 
-
-    - Type of camera used  
-
-    - How busy the location is  
-
-    - Weather 
+- Once the user has a picture they want to upload, they need to click the “add photo” button on the interface this will bring them to the first page.
+- The first page will contain the image, the second page will contain the location, the third and final page will contain the image, the location (in mapform), a tag section, and a text section for other information including time, location (City, Address), tags, a caption, weather condition and the busyness of the area.
+- Once the user is satisfied with their photo and all its information, they just need to click the confirm button and it will be posted.
 
 ### Discussion of Groups in the Affinity Diagram
 
