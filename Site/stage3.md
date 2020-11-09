@@ -160,6 +160,22 @@ Our project idea is a photography landmark locator. This application is going to
 
 ![img](img/stage3/storyBoard.png)
 
+## Discussion of Cognitive walk through 
+
+How did we generate the cognitive walkthrough? 
+
+- We first outlined all the tasks that a user would take from our stage 2. With this we developed our low-fidelity prototype to test how we wanted the user to interact with this website and what problems they might have met. With those problems in mind, we adjusted our prototype and found simple solutions to help better the experience of the user.  
+
+- Some problems that we ran into were ambiguity of some steps that a user would have to take to perform certain tasks. An example of this was when a user would want to upload a photo, they would have to press the plus button to do so. The problem that we saw this that was that a user might not know what that button is or what it does. The solution we produced was that when the user hovers over the button it will say “upload photo”. 
+
+- In addition, we wanted to look for ways to automate some of the user's task so that they would have taken out the experience, like how when a photo was going to be uploaded, we wanted the system to investigate the photos meta-data and look for key information about the photo.  
+
+## What went well and what we would do differently 
+
+Through the process of sketching and ideating we were able to generate similar yet vastly different ideas about how the service will be accomplished. One example is the home page we all knew what features we wanted available, but the layout and how the information was conveyed was vastly different. We came together and individually discussed all our sketches and evaluated what it brought to the project and its effectiveness. Following this were able to create a storyboard in which we gave a detailed explanation of the process a user would go through to upload a photo. This process helped us understand and visualize how a user would go about uploading a photo and the steps they would have to take, and especially helped when we were making our prototype. 
+
+Had we done this again, we would have made sure to designated one unique page for each member of our group so that we didn’t end up with similar sketches of the same pages. This caused us to have to re design some of our sketches to implement something different in each version of the page so that they do not end up looking the same. An example of this was when we were designing our log in page, since it was a simple log-in and password, everyone had a similar sketch.  
+
 ## Appendix
 
 ### Affinity Diagram 
