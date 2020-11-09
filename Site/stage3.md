@@ -41,22 +41,6 @@ Our project idea is a photography landmark locator. This application is going to
 
 
 
-
-
-### Discussion of Groups
-
-- Quality of Life/ Usability 
-
-    - This grouping tangentially relates to the design requirement of logging in to the application, as well as interacting with uploaded assets. A weakness of this group is that it does not encompass any concise functionality. On the other hand, the generality it provides can be considered a strength as it allows for implementations that are universal to the web app. For example. By considering the accessibility idea, all UI components become more user-friendly to a more diverse range of people. The idea is feasible as it is simply taking existing functionality and making it easier to use. The grouping is also original, since ideas such as accessibility in a social media app, are rarely intricately implemented. 
-
-- Finding Landmarks 
-
-    - This grouping relates to the design requirements developed from the user-task descriptions of stage 2. Specifically, the tasks of viewing a map of the globe to be able to view landmarks on it, filtering available landmarks based on the user's preferences, and viewing more information about landmarks that the user is focusing on. A weakness of this grouping is that it does not take into consideration the social integration aspect of the web app, which is a major component of the app. A strength of this grouping is that it gives a good idea of how users will primarily interact with the app, which is through the use of a traversable map, in order to focus in on what the user is looking for. Furthermore, the grouping introduces the idea of filtering based on a user's needs, which is also a main functionality that succinctly provides users with the information they desire. As for feasibility, as finding landmarks is one of the most significant features of the web app, time can certainly be provided in developing this grouping. The idea of traversing a map to find locations isn’t original, however making it a main feature of a social media application certainly is. 
-
-- Sharing Pictures 
-
-    - This ties into the design requirements developed from the user-tasks of stage 2. Logging-in to an account creates the idea of a user within the web app ecosystem. By tying a user to an account, a user ends up with an identity on the web application. Viewing a photo feed is another user task related to this group, as is viewing a friends profile of pictures and uploading a users own assets to the website. A strength of this grouping is that it describes the social integration aspect of the web application. It considers the interactions that users will have with the system (web app) as well as the interactions that users will have with each other, in the form of uploading, sharing, and commenting on pictures that have been taken. A weakness of this grouping is that it does not consider the User Interface of the application. Ideas such as uploading pictures, credential-based log-in, and viewing profiles of friends, are all feasible ideas, and also major parts of the web app. A less feasible idea (time-permitting) would be the commenting on pictures idea. This grouping of sharing pictures is original when it is considered in relation to what is being shared, which in this case are pictures taken with extensive meta-data that includes items such as weather data, time of day, and latitude and longitude location data, among other things. 
-
 ### Tasks prototyped: 
 
 - Vertically: 
@@ -195,7 +179,7 @@ Had we done this again, we would have made sure to designated one unique page fo
 
     - Lat long entry 
 
-    - Pin drop on map  
+    - Pin drop on map
 
 - Once they enter the location of photoshoot, they can add comments or descriptions to like: 
 
@@ -204,6 +188,20 @@ Had we done this again, we would have made sure to designated one unique page fo
     - How busy the location is  
 
     - Weather 
+
+### Discussion of Groups in the Affinity Diagram
+
+- Quality of Life/ Usability 
+
+    - This grouping tangentially relates to the design requirement of logging in to the application, as well as interacting with uploaded assets. A weakness of this group is that it does not encompass any concise functionality. On the other hand, the generality it provides can be considered a strength as it allows for implementations that are universal to the web app. For example. By considering the accessibility idea, all UI components become more user-friendly to a more diverse range of people. The idea is feasible as it is simply taking existing functionality and making it easier to use. The grouping is also original, since ideas such as accessibility in a social media app, are rarely intricately implemented. 
+
+- Finding Landmarks 
+
+    - This grouping relates to the design requirements developed from the user-task descriptions of stage 2. Specifically, the tasks of viewing a map of the globe to be able to view landmarks on it, filtering available landmarks based on the user's preferences, and viewing more information about landmarks that the user is focusing on. A weakness of this grouping is that it does not take into consideration the social integration aspect of the web app, which is a major component of the app. A strength of this grouping is that it gives a good idea of how users will primarily interact with the app, which is through the use of a traversable map, in order to focus in on what the user is looking for. Furthermore, the grouping introduces the idea of filtering based on a user's needs, which is also a main functionality that succinctly provides users with the information they desire. As for feasibility, as finding landmarks is one of the most significant features of the web app, time can certainly be provided in developing this grouping. The idea of traversing a map to find locations isn’t original, however making it a main feature of a social media application certainly is. 
+
+- Sharing Pictures 
+
+    - This ties into the design requirements developed from the user-tasks of stage 2. Logging-in to an account creates the idea of a user within the web app ecosystem. By tying a user to an account, a user ends up with an identity on the web application. Viewing a photo feed is another user task related to this group, as is viewing a friends profile of pictures and uploading a users own assets to the website. A strength of this grouping is that it describes the social integration aspect of the web application. It considers the interactions that users will have with the system (web app) as well as the interactions that users will have with each other, in the form of uploading, sharing, and commenting on pictures that have been taken. A weakness of this grouping is that it does not consider the User Interface of the application. Ideas such as uploading pictures, credential-based log-in, and viewing profiles of friends, are all feasible ideas, and also major parts of the web app. A less feasible idea (time-permitting) would be the commenting on pictures idea. This grouping of sharing pictures is original when it is considered in relation to what is being shared, which in this case are pictures taken with extensive meta-data that includes items such as weather data, time of day, and latitude and longitude location data, among other things. 
 
 
 ### Cognitive Walkthrough
