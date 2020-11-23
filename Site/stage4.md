@@ -94,7 +94,7 @@ In addition to this, there are many minor details that we overlooked because of 
 
 | Rule of Thumb | Is this rule being applied? How so? | Is this rule violated? How so? | How can this rule further improve usability, utility and desirability? |
 |---|---|---|---|
-| Visibility of system status | Because our system is currently static here is no need for the application of progress bars. | We could apply a progress bar to photos when they are loading in for the user as they are trying to upload a photo, so they know that the photo is loading and not just empty. In addition to a progress bar for uploading photo so they know when they can exit out the page. |
+| Visibility of system status | Because our system is currently static here is no need for the application of progress bars. || We could apply a progress bar to photos when they are loading in for the user as they are trying to upload a photo, so they know that the photo is loading and not just empty. In addition to a progress bar for uploading photo so they know when they can exit out the page. |
 | Match between system and the real world | Yes, all icons that were used match the icons that match the real world. For example, when viewing the descriptions of the photos each category is associated with their exact icon that matches the real world. | Yes, in the nav bar some of the icons are ambiguous to show what that button does. For example, the upload photo button is a plus sign. These icons do not match the real world. | Using these rules, this will help increase usability because it will be easier for users to identify what these buttons do, and it will increase desirability because if these buttons are easily distinguishable it will make user workflow more effortless. |
 | User control and freedom | Yes, in our pages, we support a ‘back’ button for users to go to a previous page just in case they went to a page they did not desire. | Yes, when you post a comment on someone’s picture, there is no option to undo that comment. | Using these rules this will help users prevent doing tasks that they did not mean to do. This will increase desirability because it will help users prevent doing undesirable tasks. |
 | Consistency and standards | When starting this project, we made sure to standardize our buttons. In addition, these buttons would function in the same way on other pages. For example, All the uses of the back-button work in similar manners where they will close the overlay or return to the previous page. | In our system we have a back button that can either function to close the overlay or return to the previous screen. While this isn’t a major issue, it would be more clear for the user if we had separate button styles differing the two. | Through this we were able to easily help the user in achieving their task. From the start when the user clicks on a button and find another button of the same style, they can rest assured that the button will act in that situation the same way. |
@@ -104,180 +104,35 @@ In addition to this, there are many minor details that we overlooked because of 
 | Aesthetic and minimalist design | Yes, we use the same design pallet across all our different screens and overlays. By using the common colours to represent buttons the user knows that they have options to interact with the display. | no. | By maintaining a consistent theme across the application User’s being to develop a sense of familiarity to help them navigate through the app and perform the actions that they are looking to do without needing more training or information about what some button on the page does. |
 | Helps users recognize, diagnose and recover from errors | No, this rule is not being applied. | We do not contain any error messages for the user just in case they click on the wrong button. |By applying these rules this will help users fix their problems and it will prevent them from doing it again, this increases usability and desirability for the users because it helps users learn how to use the application properly. Also providing further assistance on a step that they missed so that they can go back and correct that error. |
 | Help and documentation | Yes, when uploading a photo, we explicitly provide information on what to do to complete the task. When uploading we provide information on the pages for the user. For example, the first page is for uploading a photo and there is message that says it, and when choosing a location there is button that says “click here” to tell users what to do. | No, when signing up for the website our sign up requires putting in an email except we do not give an example or a template for it. We could’ve put a placeholder example into the text field. | This will help users complete these tasks will full information on how to complete them properly without any errors or undesirable outcomes.  |
-
  
 
+#### Evaluator: Don 
+
+| Rule of Thumb | Is this rule being applied? How so? | Is this rule violated? How so? | How can this rule further improve usability, utility and desirability? |
+| Visibility of system status | No, we do not implement anything here due to the nature of the application, there is no loading screens or anything progressive that requires progress tracking | Yes, For the user after they log into the system there is no information as to what screen they are on or what they are supposed to do. | By giving more information to the user they might have a better idea as to what page they are on in the app. While to the developers it is more apparent what the home screen is we could give more information to the user so that they know what they are being presented with on the screen to at least let them know they are on the home page for example. |
+| Match between system and the real world | Yes, by highlighting on the screen after they have added a new photo where they put that photo, they know that the new pin on the screen is one that they had added. |Yes, When the user goes to view on the pin the exact location of a photo there is no information telling them that this is a different screen so they might go looking on this chart for more pins to interact with when they are in a mode that is about reflecting where the photo exactly was taken. |By making sure that the user knows exactly where they are by giving them more information like a little window telling them which mode, they are in they might feel less lost and confused when looking around for more pins should they have changed modes from seeking pins. |
+| User control and freedom | Yes, When the user is adding a new photo, they have the option to leave should they decide not to upload the photo without closing the application. | Yes, we have a few screens like viewing friends and the accessibility tab that we should have the ability to leave in multiple ways, but the user must click on the Close button to leave | By allowing the user to simply click to navigate away from a overlay it can help them feel less corned when navigating the page. |
+| Consistency and standards | Yes, by using common colours to denote actionable buttons and areas where you can upload photos or add text the users know just from looking at the different buttons that something on the screen is a possible action that they can take. | Yes, by in some windows having the ability to click away from the overlay to close and in others not allowing that we are not being consistent about the different ways that the user can leave an action or go to a different screen. | By making it so that either all of the overlays have a “out of frame” exit the user will not become frustrated should they click on the outside of a overlay and they don’t exit. |
+| Error prevention | | Yes, when uploading a new photo if the user clicks on the next button when either selecting a photo and they have not made their choice the system does nothing. | It should maybe let the user know that there is no selection made and should address this before moving on. This will help the user avoid errors. |
+| Recognition rather than recall | Yes, when looking at the photo’s page we use little icons to help the user recognize what each piece of information is conveying. | |This rule is used so that on each page the icons with the text can help them find the information that they are looking for faster without having to try and remember where to find certain pieces of information. They simply can look at the icons and know whats there. |
+| Flexibility and efficiency of use | |Yes, In our application we have no information about keyboard shortcuts to maybe speed things up for the more advanced user like pressing the ‘s’ key on the home screen to quickly access the search function.  | By adding these features to the app it might speed things up for the user novice and expert alike. Though it is worth mentioning that these are missing at the moment because of limitations with Figma and might be something of a note for the Team should this be fully implemented on the front and backend, not just a prototype. |
+| Aesthetic and minimalist design | Yes, we keep things simple throughout the app with colourful and easy to read buttons for navigation and do not have anything on the display through any of the overlays that’s over stimulating for the user. | Yes, sometimes depending on the actions taken by the user there can be a lot of different overlays on the screen, while they are all simple in their own design over crowding can cause confusion. | By using a simple and clean design implemented consistently the confusion that the user might run into will be reduced. |
+| Helps users recognize, diagnose and recover from errors | | Yes, there is no error message for the user should they try to enter a photo without picking a location for where the photo was taken | By implementing a error message for the user when they fail to pick a location and they try to upload their photo, or even when they fail to do this for selecting a photo in the first place, we can cut down on the time wasted by the user when they are trying to advance in the upload process. |
+| Help and documentation | Yes we don’t anywhere in the application have a help page should a user want more information about what a screen does | Should the buttons and the page fail to explain to the user what each page and overlay does through their implementation having a help button would be good to give an explanation to the user should they wonder about what some page does. |
  
 
-Evaluator: Don 
-
-Rule of Thumb 
-
-Is this rule being applied? How so? 
-
-Is this rule violated? How so? 
-
-How can this rule further improve usability, utility and desirability? 
-
-Visibility of system status 
-
- 
-
-Yes, For the user after they log into the system there is no information as to what screen they are on or what they are supposed to do. 
-
-By giving more information to the user they might have a better idea as to what page they are on in the app. While to the developers it is more apparent what the home screen is we could give more information to the user so that they know what they are being presented with on the screen to at least let them know they are on the home page for example. 
-
-Match between system and the real world 
-
-Yes, by highlighting on the screen after they have added a new photo where they put that photo, they know that the new pin on the screen is one that they had added. 
-
-Yes, When the user goes to view on the pin the exact location of a photo there is no information telling them that this is a different screen so they might go looking on this chart for more pins to interact with when they are in a mode that is about reflecting where the photo exactly was taken. 
-
-By making sure that the user knows exactly where they are by giving them more information like a little window telling them which mode, they are in they might feel less lost and confused when looking around for more pins should they have changed modes from seeking pins. 
-
-User control and freedom 
-
-Yes, When the user is adding a new photo, they have the option to leave should they decide not to upload the photo without closing the application. 
-
-Yes, we have a few screens like viewing friends and the accessibility tab that we should have the ability to leave in multiple ways, but the user must click on the Close button to leave 
-
-By allowing the user to simply click to navigate away from a overlay it can help them feel less corned when navigating the page. 
-
-Consistency and standards 
-
-Yes, by using common colours to denote actionable buttons and areas where you can upload photos or add text the users know just from looking at the different buttons that something on the screen is a possible action that they can take 
-
-Yes, by in some windows having the ability to click away from the overlay to close and in others not allowing that we are not being consistent about the different ways that the user can leave an action or go to a different screen. 
-
-By making it so that either all of the overlays have a “out of frame” exit the user will not become frustrated should they click on the outside of a overlay and they don’t exit. 
-
-Error prevention 
- 
-
- 
-
-Yes, when uploading a new photo if the user clicks on the next button when either selecting a photo and they have not made their choice the system does nothing.  
-
-It should maybe let the user know that there is no selection made and should address this before moving on. This will help the user avoid errors. 
-
-Recognition rather than recall 
-
-Yes, when looking at the photo’s page we use little icons to help the user recognize what each piece of information is conveying. 
-
- 
-
-This rule is used so that on each page the icons with the text can help them find the information that they are looking for faster without having to try and remember where to find certain pieces of information. They simply can look at the icons and know whats there. 
-
-Flexibility and efficiency of use 
-
- 
-
-Yes, In our application we have no information about keyboard shortcuts to maybe speed things up for the more advanced user like pressing the ‘s’ key on the home screen to quickly access the search function.  
-
-By adding these features to the app it might speed things up for the user novice and expert alike. Though it is worth mentioning that these are missing at the moment because of limitations with Figma and might be something of a note for the Team should this be fully implemented on the front and backend, not just a prototype. 
-
-Aesthetic and minimalist design 
-
-Yes, we keep things simple throughout the app with colourful and easy to read buttons for navigation and do not have anything on the display through any of the overlays that’s over stimulating for the user. 
-
-Yes, sometimes depending on the actions taken by the user there can be a lot of different overlays on the screen, while they are all simple in their own design over crowding can cause confusion. 
-
-By using a simple and clean design implemented consistently the confusion that the user might run into will be reduced. 
-
-Helps users recognize, diagnose and recover from errors 
-
- 
-
-Yes, there is no error message for the user should they try to enter a photo without picking a location for where the photo was taken 
-
-By implementing a error message for the user when they fail to pick a location and they try to upload their photo, or even when they fail to do this for selecting a photo in the first place, we can cut down on the time wasted by the user when they are trying to advance in the upload process. 
-
-Help and documentation 
-
- 
-
-Yes we don’t anywhere in the application have a help page should a user want more information about what a screen does 
-
-Should the buttons and the page fail to explain to the user what each page and overlay does through their implementation having a help button would be good to give an explanation to the user should they wonder about what some page does. 
-
- 
-
-Evaluator: Sarina 
-
-Rule of Thumb 
-
-Is this rule being applied? How so? 
-
-Is this rule violated? How so? 
-
-How can this rule further improve usability, utility and desirability? 
-
-Visibility of system status 
-
- 
-
- 
-
- 
-
-Match between system and the real world 
-
- 
-
- 
-
- 
-
-User control and freedom 
-
- 
-
- 
-
- 
-
-Consistency and standards 
-
- 
-
- 
-
- 
-
-Error prevention 
- 
-
- 
-
- 
-
- 
-
-Recognition rather than recall 
-
- 
-
- 
-
- 
-
-Flexibility and efficiency of use 
-
- 
-
- 
-
- 
-
-Aesthetic and minimalist design 
-
- 
-
- 
-
- 
-
-Helps users recognize, diagnose and recover from errors 
+#### Evaluator: Sarina 
+
+| Rule of Thumb | Is this rule being applied? How so? | Is this rule violated? How so? | How can this rule further improve usability, utility and desirability? |
+| Visibility of system status | | | |
+| Match between system and the real world | | | |
+| User control and freedom | | | |
+| Consistency and standards | | | |
+| Error prevention | | | |
+| Recognition rather than recall | | | |
+| Flexibility and efficiency of use | | | |
+| Aesthetic and minimalist design | | | |
+| Helps users recognize, diagnose and recover from errors | | | |
 
  
 
