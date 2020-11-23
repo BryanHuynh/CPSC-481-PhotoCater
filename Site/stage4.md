@@ -136,7 +136,7 @@ In addition to this, there are many minor details that we overlooked because of 
 | Helps users recognize, diagnose and recover from errors | No, we do not have any error messages that would prompt a user to go back and fix a mistake.  | Yes, currently we do not have any error messages built in in case a user tried to upload a photo without adding a location, the system would just not let them upload that photo and would not tell them what the issue is.  | This rule is very helpful to provide clarify for the user and direct them if they made a mistake somewhere along a task. |
 | Help and documentation | Yes, we have prompts on the map when uploading a photo telling the user to click on the location they searched for.  | Yes, we do not have a help navigator or frequently asked questions section on the website.  | If we add more places for user’s to gather more information about how to use the website they might find the website more approachable. |
 
-### Reviewer’s Findings (BRyan & Sajid)
+### Reviewer’s Findings (Bryan & Sajid)
 
 We will use this table for severity ratings:
 
