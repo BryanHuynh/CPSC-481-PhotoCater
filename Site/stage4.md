@@ -175,7 +175,7 @@ We will use this table for severity ratings:
 - The back button, functions as a back button and an exit button. However, this can cause some issues with users, because they may want to go back and not exit. This does not destroy functionality with the prototype but makes it more difficult for the users’ workflow. 
 
 
-References for images: 
+## References for images: 
 
 
 - https://www.bing.com/images/search?view=detailV2&ccid=oMaV%2bwoc&id=49A9D590B5520B1641BB276DBE18C10931E93627&thid=OIP.oMaV-wocex1CB8WgkAiLVAHaD0&mediaurl=https%3a%2f%2fimages.dailyhive.com%2f20171126133316%2funtitled-05261.jpg&exph=553&expw=1072&q=Calgary+Tower+On+Fire&simid=608025012837615758&ck=7838923664DF49BC16C381A29CE8A72E&selectedIndex=51&FORM=IRPRST&ajaxhist=0 
