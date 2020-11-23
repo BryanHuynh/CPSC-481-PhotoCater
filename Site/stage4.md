@@ -95,81 +95,15 @@ In addition to this, there are many minor details that we overlooked because of 
 | Rule of Thumb | Is this rule being applied? How so? | Is this rule violated? How so? | How can this rule further improve usability, utility and desirability? |
 |---|---|---|---|
 | Visibility of system status | Because our system is currently static here is no need for the application of progress bars. | We could apply a progress bar to photos when they are loading in for the user as they are trying to upload a photo, so they know that the photo is loading and not just empty. In addition to a progress bar for uploading photo so they know when they can exit out the page. |
-
-Match between system and the real world 
-
-Yes, all icons that were used match the icons that match the real world. For example, when viewing the descriptions of the photos each category is associated with their exact icon that matches the real world. 
-
-Yes, in the nav bar some of the icons are ambiguous to show what that button does. For example, the upload photo button is a plus sign. These icons do not match the real world 
-
-Using these rules, this will help increase usability because it will be easier for users to identify what these buttons do, and it will increase desirability because if these buttons are easily distinguishable it will make user workflow more effortless. 
-
-User control and freedom 
-
-Yes, in our pages, we support a ‘back’ button for users to go to a previous page just in case they went to a page they did not desire. 
-
-Yes, when you post a comment on someone’s picture, there is no option to undo that comment. 
-
-Using these rules this will help users prevent doing tasks that they did not mean to do. This will increase desirability because it will help users prevent doing undesirable tasks. 
-
-Consistency and standards 
-
-When starting this project, we made sure to standardize our buttons. In addition, these buttons would function in the same way on other pages. For example, All the uses of the back-button work in similar manners where they will close the overlay or return to the previous page 
-
-In our system we have a back button that can either function to close the overlay or return to the previous screen. While this isn’t a major issue, it would be more clear for the user if we had separate button styles differing the two. 
-
-Through this we were able to easily help the user in achieving their task. From the start when the user clicks on a button and find another button of the same style, they can rest assured that the button will act in that situation the same way.  
-
-Error prevention 
- 
-
-Yes this rule is being applied. When looking at the Photo upload and the edit profile forms, the user is prompted multiple times to make sure that the actions that they are taking are in fact what they intended. We also gray out buttons to prevent users from clicking on the button before a certain action. For example, when uploading a photo we gray out the confirm button until someone selects a photo. 
-
-Yes, when adding a comment we don’t check with the user before posting that they wanted to post what they wrote, so say the user accidentally presses the Enter key early they might post something they either didn’t mean to.  
-
-By maintaining error prevention we can help the user represent themselves the way they best want to by prompting them to make sure that they are entering the correct information. 
-
-Recognition rather than recall 
-
-Yes, this rule is being applied. We ensure that one would know where in the action they are by labelling everything and having arrows to point to the actions one would have to do, to ensure a task in completed. For example, if one wanted to upload a photo, that action has instructions all along the way like having a label that says “click here” when they need to put their location in the map. 
-
-No, we do not violate this example. 
-
-Through these steps and instructions that a user would have to take in order to complete a task it ensures that they do not miss any important steps and making it easier for the user to use our website application.  
-
-Flexibility and efficiency of use 
-
-If a user knew of a location that they wanted to find photos at they could use that term in our search system to find a gallery of photos speeding up the user's ability to find photos that they want. 
-
-For our system currently, there is no way for a user to speed up whatever task they want. For example, if they wanted to find a specific photo, they will always need to find that pin on the map and find the photo in the gallery. 
-
-For further functionality we could have decided that we wanted to add a system allowing the user to find photos that they will see before to a separate gallery for quick navigation  
-
-Aesthetic and minimalist design 
-
-Yes, we use the same design pallet across all our different screens and overlays. By using the common colours to represent buttons the user knows that they have options to interact with the display. 
-
-no 
-
-By maintaining a consistent theme across the application User’s being to develop a sense of familiarity to help them navigate through the app and perform the actions that they are looking to do without needing more training or information about what some button on the page does. 
-
-Helps users recognize, diagnose and recover from errors 
-
-No, this rule is not being applied. 
-
-We do not contain any error messages for the user just in case they click on the wrong button. 
-
-By applying these rules this will help users fix their problems and it will prevent them from doing it again, this increases usability and desirability for the users because it helps users learn how to use the application properly. Also providing further assistance on a step that they missed so that they can go back and correct that error. 
-
- 
-
-Help and documentation 
-
-Yes, when uploading a photo, we explicitly provide information on what to do to complete the task. When uploading we provide information on the pages for the user. For example, the first page is for uploading a photo and there is message that says it, and when choosing a location there is button that says “click here” to tell users what to do. 
-
-No, when signing up for the website our sign up requires putting in an email except we do not give an example or a template for it. We could’ve put a placeholder example into the text field. 
-
-This will help users complete these tasks will full information on how to complete them properly without any errors or undesirable outcomes.  
+| Match between system and the real world | Yes, all icons that were used match the icons that match the real world. For example, when viewing the descriptions of the photos each category is associated with their exact icon that matches the real world. | Yes, in the nav bar some of the icons are ambiguous to show what that button does. For example, the upload photo button is a plus sign. These icons do not match the real world. | Using these rules, this will help increase usability because it will be easier for users to identify what these buttons do, and it will increase desirability because if these buttons are easily distinguishable it will make user workflow more effortless. |
+| User control and freedom | Yes, in our pages, we support a ‘back’ button for users to go to a previous page just in case they went to a page they did not desire. | Yes, when you post a comment on someone’s picture, there is no option to undo that comment. | Using these rules this will help users prevent doing tasks that they did not mean to do. This will increase desirability because it will help users prevent doing undesirable tasks. |
+| Consistency and standards | When starting this project, we made sure to standardize our buttons. In addition, these buttons would function in the same way on other pages. For example, All the uses of the back-button work in similar manners where they will close the overlay or return to the previous page. | In our system we have a back button that can either function to close the overlay or return to the previous screen. While this isn’t a major issue, it would be more clear for the user if we had separate button styles differing the two. | Through this we were able to easily help the user in achieving their task. From the start when the user clicks on a button and find another button of the same style, they can rest assured that the button will act in that situation the same way. |
+| Error prevention | Yes this rule is being applied. When looking at the Photo upload and the edit profile forms, the user is prompted multiple times to make sure that the actions that they are taking are in fact what they intended. We also gray out buttons to prevent users from clicking on the button before a certain action. For example, when uploading a photo we gray out the confirm button until someone selects a photo. | Yes, when adding a comment we don’t check with the user before posting that they wanted to post what they wrote, so say the user accidentally presses the Enter key early they might post something they either didn’t mean to. | By maintaining error prevention we can help the user represent themselves the way they best want to by prompting them to make sure that they are entering the correct information. |
+| Recognition rather than recall | Yes, this rule is being applied. We ensure that one would know where in the action they are by labelling everything and having arrows to point to the actions one would have to do, to ensure a task in completed. For example, if one wanted to upload a photo, that action has instructions all along the way like having a label that says “click here” when they need to put their location in the map. | No, we do not violate this example. | Through these steps and instructions that a user would have to take in order to complete a task it ensures that they do not miss any important steps and making it easier for the user to use our website application. | 
+| Flexibility and efficiency of use | If a user knew of a location that they wanted to find photos at they could use that term in our search system to find a gallery of photos speeding up the user's ability to find photos that they want. | For our system currently, there is no way for a user to speed up whatever task they want. For example, if they wanted to find a specific photo, they will always need to find that pin on the map and find the photo in the gallery. | For further functionality we could have decided that we wanted to add a system allowing the user to find photos that they will see before to a separate gallery for quick navigation. |
+| Aesthetic and minimalist design | Yes, we use the same design pallet across all our different screens and overlays. By using the common colours to represent buttons the user knows that they have options to interact with the display. | no. | By maintaining a consistent theme across the application User’s being to develop a sense of familiarity to help them navigate through the app and perform the actions that they are looking to do without needing more training or information about what some button on the page does. |
+| Helps users recognize, diagnose and recover from errors | No, this rule is not being applied. | We do not contain any error messages for the user just in case they click on the wrong button. |By applying these rules this will help users fix their problems and it will prevent them from doing it again, this increases usability and desirability for the users because it helps users learn how to use the application properly. Also providing further assistance on a step that they missed so that they can go back and correct that error. |
+| Help and documentation | Yes, when uploading a photo, we explicitly provide information on what to do to complete the task. When uploading we provide information on the pages for the user. For example, the first page is for uploading a photo and there is message that says it, and when choosing a location there is button that says “click here” to tell users what to do. | No, when signing up for the website our sign up requires putting in an email except we do not give an example or a template for it. We could’ve put a placeholder example into the text field. | This will help users complete these tasks will full information on how to complete them properly without any errors or undesirable outcomes.  |
 
  
 
