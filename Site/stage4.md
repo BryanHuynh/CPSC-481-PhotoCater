@@ -135,125 +135,73 @@ In addition to this, there are many minor details that we overlooked because of 
 | Flexibility and efficiency of use | | | |
 | Aesthetic and minimalist design | | | |
 | Helps users recognize, diagnose and recover from errors | | | |
+| Help and documentation | | | |
 
+### Reviewer’s Findings 
+
+We will use this table for severity ratings:
+
+| Rating | Description |
+|---|---|
+| 0 | Doesn’t seem to be a usability problem |
+| 1 | Cosmetic Problem |
+| 2 | Minor usability problem |
+| 3 | Major usability problem |
+| 4 | Usability Catastrophe |
  
 
- 
+### Problem 1: Ambiguous icons 
 
- 
+#### Rating: 1 
 
-Help and documentation 
+- These icons due pose an issue since it makes it harder for the user to complete specific tasks since, these icons are ambiguous. However, this does not destroy any functionality on doing tasks in our prototype 
 
- 
+### Problem 2: Error messages 
 
- 
+#### Rating: 2 
 
- 
+- This problem is rated a 2 because although it is important to ensure the user completes all tasks required to uploading a photo, they will not be allowed to continue to the next step if a certain step is not done. Although it is important for the user to know exactly where they went wrong so that they can go back and fix the issue. 
 
- 
+### Problem 3: No undo on comments 
 
- 
+#### Rating: 3 
 
-Reviewer’s Findings 
+- This problem is rated a 3 because since there is no way for a user to undo a comment, they might not be able to remove something that they did not mean to post either because it was not complete, or it was not something that they meant to say. This also reduces the User’s ability to be free when using the app since they might be hesitant to post something since there either might be an unintentional error, or they cannot take something back that they did not mean. 
 
- 
+### Problem 4: Back button  
 
-We will use this table for severity ratings 
+#### Rating: 2 
 
-Rating 
+- The back button, functions as a back button and an exit button. However, this can cause some issues with users, because they may want to go back and not exit. This does not destroy functionality with the prototype but makes it more difficult for the users’ workflow. 
 
-Description 
-
-0 
-
-Doesn’t seem to be a usability problem 
-
-1 
-
-Cosmetic Problem 
-
-2 
-
-Minor usability problem 
-
-3 
-
-Major usability problem 
-
-4 
-
-Usability Catastrophe 
-
- 
-
- 
-
-Problem 1: Ambiguous icons 
-
-Rating: 1 
-
-These icons due pose an issue since it makes it harder for the user to complete specific tasks since, these icons are ambiguous. However, this does not destroy any functionality on doing tasks in our prototype 
-
- 
-
-Problem 2: Error messages 
-
-Rating: 2 
-
-This problem is rated a 2 because although it is important to ensure the user completes all tasks required to uploading a photo, they will not be allowed to continue to the next step if a certain step is not done. Although it is important for the user to know exactly where they went wrong so that they can go back and fix the issue. 
-
- 
-
-Problem 3: No undo on comments 
-
-Rating: 3 
-
-This problem is rated a 3 because since there is no way for a user to undo a comment, they might not be able to remove something that they did not mean to post either because it was not complete, or it was not something that they meant to say. This also reduces the User’s ability to be free when using the app since they might be hesitant to post something since there either might be an unintentional error, or they cannot take something back that they did not mean. 
-
- 
-
-Problem 4: Back button  
-
-Rating: 2 
-
-The back button, functions as a back button and an exit button. However, this can cause some issues with users, because they may want to go back and not exit. This does not destroy functionality with the prototype but makes it more difficult for the users’ workflow. 
-
- 
-
- 
-
- 
 
 References for images: 
 
- 
 
-https://www.bing.com/images/search?view=detailV2&ccid=oMaV%2bwoc&id=49A9D590B5520B1641BB276DBE18C10931E93627&thid=OIP.oMaV-wocex1CB8WgkAiLVAHaD0&mediaurl=https%3a%2f%2fimages.dailyhive.com%2f20171126133316%2funtitled-05261.jpg&exph=553&expw=1072&q=Calgary+Tower+On+Fire&simid=608025012837615758&ck=7838923664DF49BC16C381A29CE8A72E&selectedIndex=51&FORM=IRPRST&ajaxhist=0 
+- https://www.bing.com/images/search?view=detailV2&ccid=oMaV%2bwoc&id=49A9D590B5520B1641BB276DBE18C10931E93627&thid=OIP.oMaV-wocex1CB8WgkAiLVAHaD0&mediaurl=https%3a%2f%2fimages.dailyhive.com%2f20171126133316%2funtitled-05261.jpg&exph=553&expw=1072&q=Calgary+Tower+On+Fire&simid=608025012837615758&ck=7838923664DF49BC16C381A29CE8A72E&selectedIndex=51&FORM=IRPRST&ajaxhist=0 
 
-https://www.bing.com/images/search?view=detailV2&ccid=IZ6raqqL&id=76C2C6283AEBE684DC63735DD19128D84AF2DA0C&thid=OIP.IZ6raqqLNRGX2HfscMjAeQHaE8&mediaurl=https%3a%2f%2fc1.staticflickr.com%2f5%2f4033%2f4230157281_504c1f547b_b.jpg&exph=683&expw=1024&q=Calgary+Tower+Inside&simid=608030884076455083&ck=E28D723BABD887C6F9AA690A8E5D6FA4&selectedIndex=0&FORM=IRPRST&ajaxhist=0 
+- https://www.bing.com/images/search?view=detailV2&ccid=IZ6raqqL&id=76C2C6283AEBE684DC63735DD19128D84AF2DA0C&thid=OIP.IZ6raqqLNRGX2HfscMjAeQHaE8&mediaurl=https%3a%2f%2fc1.staticflickr.com%2f5%2f4033%2f4230157281_504c1f547b_b.jpg&exph=683&expw=1024&q=Calgary+Tower+Inside&simid=608030884076455083&ck=E28D723BABD887C6F9AA690A8E5D6FA4&selectedIndex=0&FORM=IRPRST&ajaxhist=0 
 
-https://www.bing.com/images/search?view=detailV2&ccid=mBCUFHpT&id=986485846E63CD134B115C1E1AC616DE7E08D8F8&thid=OIP.mBCUFHpTTfupvjJ9jV2XvgHaHa&mediaurl=https%3a%2f%2fi.pinimg.com%2f736x%2ff1%2f83%2f05%2ff18305b9f35ed1d1dfffb1dd576cc1aa--hdr-photography-calgary.jpg&exph=612&expw=612&q=Calgary+Tower+On+Fire&simid=608005376238683314&ck=B81A4DE697DD2483B7A71D638678FF77&selectedIndex=0&FORM=IRPRST&ajaxhist=0 
+- https://www.bing.com/images/search?view=detailV2&ccid=mBCUFHpT&id=986485846E63CD134B115C1E1AC616DE7E08D8F8&thid=OIP.mBCUFHpTTfupvjJ9jV2XvgHaHa&mediaurl=https%3a%2f%2fi.pinimg.com%2f736x%2ff1%2f83%2f05%2ff18305b9f35ed1d1dfffb1dd576cc1aa--hdr-photography-calgary.jpg&exph=612&expw=612&q=Calgary+Tower+On+Fire&simid=608005376238683314&ck=B81A4DE697DD2483B7A71D638678FF77&selectedIndex=0&FORM=IRPRST&ajaxhist=0 
 
- 
+- https://www.cbc.ca/news/canada/calgary/peace-bridge-maintenance-1.5602417 
 
-https://www.cbc.ca/news/canada/calgary/peace-bridge-maintenance-1.5602417 
+- https://www.reddit.com/r/Calgary/comments/9eh0oy/peace_bridge_at_midnight/ 
 
-https://www.reddit.com/r/Calgary/comments/9eh0oy/peace_bridge_at_midnight/ 
+- https://www.bigstockphoto.com/image-115973417/stock-photo-peace-bridge%2C-calgary 
 
-https://www.bigstockphoto.com/image-115973417/stock-photo-peace-bridge%2C-calgary 
+- https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fcalgary%2Brain&psig=AOvVaw24C2jSzwlMFz-VsxY6hz_B&ust=1605319811049000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKC18cK4_uwCFQAAAAAdAAAAABAD 
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fcalgary%2Brain&psig=AOvVaw24C2jSzwlMFz-VsxY6hz_B&ust=1605319811049000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKC18cK4_uwCFQAAAAAdAAAAABAD 
+- https://www.pinterest.ca/pin/541346817708570720/ 
 
-https://www.pinterest.ca/pin/541346817708570720/ 
+- https://www.calgary.ca/csps/parks/locations/downtown-parks/devonian-gardens.html 
 
-https://www.calgary.ca/csps/parks/locations/downtown-parks/devonian-gardens.html 
+- https://uhdwallpapers.org/wallpaper/girl-taking-pictures-at-sunset_87798/1920x1080/ 
 
-https://uhdwallpapers.org/wallpaper/girl-taking-pictures-at-sunset_87798/1920x1080/ 
+- http://www.shotsbypeter.com/blog/?p=12778 
 
-http://www.shotsbypeter.com/blog/?p=12778 
+- https://www.waltersgroupinc.com/project/the-bow/ 
 
-https://www.waltersgroupinc.com/project/the-bow/ 
-
-https://www.tetratech.com/en/projects/the-beautiful-bow-calgary-alberta 
+- https://www.tetratech.com/en/projects/the-beautiful-bow-calgary-alberta 
 
  
