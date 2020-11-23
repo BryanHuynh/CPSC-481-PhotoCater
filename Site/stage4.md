@@ -6,13 +6,12 @@
 # STAGE FOUR 
 
 ### Members (Team F/TUT03): 
-| Group Member | Roll |
-|---|---|
-| Bryan Hyunh | Reviewer |
-| Don McEachern | Evaluator |
-| Ryan Liew | Evaluator |
-| Sajid Choudhry | Reviewer |
-| Sarina Zohdi | Evaluator |
+
+#### Bryan Hyunh
+#### Don McEachern
+#### Ryan Liew
+#### Sajid Choudhry
+#### Sarina Zohdi 
 
 ![title_img](img/stage4/PhotocatorLogo.png)
 
