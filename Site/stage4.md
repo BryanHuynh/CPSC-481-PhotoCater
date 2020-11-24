@@ -15,6 +15,10 @@
 
 ![title_img](img/stage4/PhotocatorLogo.png)
 
+<a href="https://raw.githubusercontent.com/bryanhuynh/cpsc-481-Project/master/Site/files/stage4/stage4Doc.pdf" download>- Report Download </a>
+<a href="https://raw.githubusercontent.com/bryanhuynh/cpsc-481-Project/master/Site/files/stage4/stage4Presentation.mp4" download>- Presentation Download </a>
+
+
 ### Project Description: 
 
 Photocator is a photography landmark social media web application. It focuses on bringing together those individuals that seek to share unique and well-curated photographs of various landmarks around the world. Users will be able to identify themselves with a unique account, which they can then use to upload photographs to the website, as well as share those photographs to external social media applications. The users will provide detailed information about the photograph, including the location (longitude and latitude), date, and time of day. Users can also use a map like graphical user interface (similar to Google Maps) to view landmarks as pins on the map, that they can click on to find out further information about others’ uploaded landmark photographs, that can be filtered to find exactly what you are looking for. Users will also be able to view their own uploaded landmarks through this interface. 
